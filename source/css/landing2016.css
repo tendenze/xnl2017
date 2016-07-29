@@ -1,0 +1,108 @@
+body.fluid {
+  background: none;
+  background-color: #e5f4f8;
+  font-family: big-noodle, Arial, sans-serif;
+}
+
+#header {
+	margin-bottom: 20px;
+}
+#header .banner {
+	padding-top: 115px;
+	background-color: #7fc8db;
+	text-align: center;
+}
+#header .title {
+	color: #fff;
+	margin-bottom: 5px;
+}
+#header .subtitle {
+	margin-bottom: 15px;
+}
+#header .subtitle .info {
+	margin-bottom: 5px;
+	line-height: 1;
+	color: #fff;
+	font-size: 25px;
+	margin-top: 0px;
+}
+#header .subtitle .info.primary {
+	margin-bottom: 5px;
+}
+#header .subtitle .info.pitch {
+	margin-bottom: 0px;
+}
+#header .subtitle .info.email a {
+	color: #006bb2;
+}
+#header .subtitle .info li.text span {
+	background: none;
+	color: #000;
+	letter-spacing: 2px;
+	border-radius: 0px;
+}
+#header .subtitle .info li.text:last-child span {
+	border-bottom: 2px solid #006bb2;
+}
+#header .waves {
+	background-image: url("../img/wave-big.png");
+	background-repeat: repeat-x;
+	background-size: 160px 55px;
+	padding-top: 55px;
+}
+
+@media screen and (min-width: 769px) {
+	#header .banner {
+		padding-top: 200px;
+	}
+	#header .subtitle .info {
+		line-height: 1.1;
+	}
+	#header .subtitle .info.primary {
+		border-bottom: 2px solid #006bb2;
+		display: inline-block;
+	}
+	#header .subtitle .info li.text+li.text:before {
+		content: "|";
+		color: #000;
+	}
+	#header .subtitle .info li.text:last-child span {
+		border-bottom: none;
+	}
+	#header .waves {
+		background-size: 248px 85px;
+		padding-top: 85px;
+	}
+}
+@media screen and (min-width: 992px) {
+	#header .waves {
+		background-size: 300px 102px;
+		padding-top: 102px;
+	}
+}
+
+#main {
+	text-align: center;
+	margin-bottom: 10px;
+}
+#main .return-link {
+	display: inline-block;
+    padding-left: 3px;
+    padding-right: 3px;
+    background-color: #7fc8db;
+    color: #e5f4f8;
+    font-size: 30px;
+    border-radius: 2px;
+    text-decoration: none;
+}
+#main .return-link:hover {
+	color: #006bb2;
+}
+@media screen and (min-width: 768px) {
+	#header {
+		margin-bottom: 40px;
+	}
+	#main {
+		margin-bottom: 20px;
+	}
+}

@@ -1,0 +1,42 @@
+sponsors:
+  - name: groppalli
+    image: logos/s-01.png
+    link: http://www.groppalli.it/
+  - name: tb
+    image: logos/s-02.png
+    link: http://www.tecnoborgo.com/
+  - name: alphaville
+    image: logos/s-04.png
+    link: https://alphavillepc.wordpress.com/
+  - name: ferranti
+    image: logos/s-05.png
+    link: http://www.ferrantimusica.it/
+
+collaborators:
+  - name: arci
+    image: logos/c-01.png
+    link: http://www.arcipc.it/
+  - name: spazio 4
+    image: logos/c-02.png
+    link: https://www.facebook.com/pages/SPAZIO-4/174783259768
+  - name: audiozone
+    image: logos/c-03.png
+    link: https://www.facebook.com/AUDIOZONEstudios
+  - name: crowse20
+    image: logos/c-04.png
+    link: https://www.facebook.com/crowseventi
+  - name: sound bonico
+    image: logos/c-05.png
+    link: https://www.facebook.com/soundbonico
+  - name: desert fox records
+    image: logos/c-06.png
+    link: https://www.facebook.com/DesertFoxRecords
+  - name: orzo rock
+    image: logos/c-07.png
+    link: https://www.facebook.com/orzorockmusic
+  - name: naturone
+    image: logos/c-08.png
+    link: https://www.facebook.com/pages/Naturone-Piacenza/408116475986674
+  - name: rock al port
+    image: logos/c-09.png
+    link: https://www.facebook.com/rockalport

@@ -1,0 +1,31 @@
+attuale:
+  - image: rassegna/01.jpg
+    pdf: pdf/rassegna/01.pdf
+  - image: rassegna/02.jpg
+    pdf: pdf/rassegna/02.pdf
+  - image: rassegna/03.jpg
+    pdf: pdf/rassegna/03.pdf
+  - image: rassegna/04.jpg
+    pdf: pdf/rassegna/04.pdf
+  - image: rassegna/uochitoki.jpg
+    pdf: pdf/rassegna/16-settembre-uochitoki.pdf
+  - image: rassegna/marcido.jpg
+    pdf: pdf/rassegna/marcido.pdf
+  - image: rassegna/venerdi18.jpg
+    pdf: pdf/rassegna/venerdi18.pdf
+  - image: rassegna/150919.jpg
+    pdf: pdf/rassegna/150919piacenza_42.pdf
+  - image: rassegna/09.jpg
+    pdf: pdf/rassegna/09.pdf
+  - image: rassegna/10.jpg
+    pdf: pdf/rassegna/10.pdf
+  - image: rassegna/11.jpg
+    pdf: pdf/rassegna/11.pdf
+  - image: rassegna/12.jpg
+    pdf: pdf/rassegna/12.pdf
+
+storico:
+  - image: rassegna/storico-01.jpg
+    pdf: pdf/rassegna/storico-01.pdf
+  - image: rassegna/storico-02.jpg
+    pdf: pdf/rassegna/storico-02.pdf

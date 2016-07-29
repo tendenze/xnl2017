@@ -1,0 +1,47 @@
+<div class="modal-container container-fluid">
+  <div class="row color-<%= color_index %>">
+    <div class="banner col-xs-12 col-sm-12 col-md-12">
+      <% banner_path = data["banner"]? data["banner"] : "bands/banners/base.jpg" %>
+      <%= image_tag banner_path, :class => "img-responsive" %>
+    </div>
+    <div class="content col-xs-12 col-sm-12 col-md-12">
+      <div class="buttons">
+      <% if is_modal %>
+        <span class="return first" data-dismiss="modal"><%= link_to "Chiudi", "#" %></span>
+      <% else %>
+        <span class="return first"><%= link_to "Vai alla Line Up", "/lineup.html##{name_id}" %></span>
+        <% day_id = !data["special"] ? data["date"].split.map{|s| s[0, 3].downcase }.join : "ven18" %>
+        <span class="return second">
+          <%= link_to "Vai al Programma#{!data['special'] ? ' di ' + data['date'].split[0] : ''}", "/programma.html##{day_id}" %>
+        </span>
+      <% end %>
+      </div>
+      <div class="name title"><%= if data["fullname"] then data["fullname"] else data["name"] end %></div>
+      <div class="info genre"><span>GENERE -</span> <%= data["genre"] %></div>
+      <div class="info from"><span>DA -</span> <%= data["from"] %></div>
+      <div class="info datetime"><span>DATA/ORA -</span> <%= data["date"] %> <%= !data["special"] ? 'alle ' : '' %><%= data["time"] %></div>
+      <div class="info stage"><span>PALCO -</span> <%= data["stage"] %></div>
+      <% if data["link"] %>
+      <div class="info link"><%= link_to data["link"], data["link"], :target => "_blank" %></div>
+      <% end %>
+      <% if data["embed"] %>
+      <div class="music title">Music</div>
+      <% embed_html = partial_embed data["embed"] %>
+        <% if embed_html %>
+        <div class="embed"><%= embed_html %></div>
+        <% else %>
+        <div class="link"><%= link_to data["embed"], data["embed"], :target => "_blank" %></div>
+        <% end %>
+      <% end %>
+      <div class="logo">
+        <% if color_index == 0 %>
+        <%= image_tag "bands/logo_orange.png" %>
+        <% elsif color_index == 1 %>
+        <%= image_tag "bands/logo_white.png" %>
+        <% else %>
+        <%= image_tag "bands/logo_green.png" %>
+        <% end %>
+      </div>
+    </div>
+  </div>
+</div>

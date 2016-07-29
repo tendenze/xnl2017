@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+  <%= partial 'partials/head' %>
+
+  <body class="fluid">
+    <%= yield %>
+
+    <%= javascript_include_tag "jquery-1.11.3.min", "bootstrap.min" %>
+    <%= yield_content :additional_js %>
+  </body>
+</html>

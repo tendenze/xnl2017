@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+  <%= partial 'partials/head' %>
+
+  <body>
+    <div class="container-fluid">
+    <%= partial 'partials/header' %>
+    </div>
+    <div class="main-content container">
+    <%= yield %>
+    </div>
+    <div class="container-fluid">
+    <%= partial 'partials/footer' %>
+    </div>
+
+    <% if !current_page.data.no_js %>
+      <%= javascript_include_tag "jquery-1.11.3.min", "bootstrap.min", "ga" %>
+      <%= yield_content :additional_js %>
+    <% end %>
+  </body>
+</html>

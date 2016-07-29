@@ -1,0 +1,42 @@
+---
+title: Line Up
+active: true
+---
+
+<% content_for :additional_js do %>
+  <%= javascript_include_tag "lineup", "modal" %>
+<% end %>
+
+<div id="lineup" class="row">
+  <div class="col-xs-12 col-sm-12 col-md-12">
+    <div class="heading"><%= current_page.data.title %></div>
+  </div>
+  <%= partial "partials/lineup_grid", :locals => {
+        :bands => data.bands.main,
+        :base_index => 0,
+        :modals_active => current_page.data.active } %>
+  <div class="more col-xs-12 col-sm-12 col-md-12">
+    <% data.bands.extra.each_with_index do |data, index| %>
+    <% color = "color-" + (index % 3).to_s %>
+    <div class="heading"><%= data["heading"] %></div>
+    <div class="image<%= data['link']? ' link' : '' %>">
+      <% if data["link"] %>
+        <% link_to data["link"], :target => "_blank" do %>
+          <% content_tag(:div, :class => "thumb") do %>
+          <%= image_tag data["thumbnail"], :class => "img-responsive" %>
+          <% end %>
+        <% end %>
+      <% else %>
+        <% content_tag(:div, :class => "thumb") do %>
+          <%= image_tag data["thumbnail"], :class => "img-responsive" %>
+        <% end %>
+      <% end %>
+      <%= content_tag(:div, :class => "name #{color}") { data["name"] } %>
+    </div>
+    <% end %>
+  </div>
+  <%= partial "partials/lineup_grid", :locals => {
+        :bands => data.bands.hiphop,
+        :base_index => data.bands.main.length,
+        :modals_active => current_page.data.active } %>
+</div>

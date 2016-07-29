@@ -1,0 +1,28 @@
+---
+title: Foto
+---
+
+<div id="photos" class="row">
+  <div class="photos-container col-xs-12 col-sm-12 col-md-12">
+    <div class="heading"><%= current_page.data.title %></div>
+    <% data.galleries.each_with_index do |entry, entry_index| %>
+    <div class="entry">
+      <div class="title"><%= entry["name"] %></div>
+      <div class="galleries row">
+        <% col_width = 12 / entry["galleries"].length %>
+        <% entry["galleries"].each_with_index do |gallery, gallery_index| %>
+          <% rotation = (gallery_index + entry_index) % 2 # two possible rotations %>
+          <% link_to gallery["link"], :target => "_blank" do %>
+          <div class="gallery col-xs-12 col-sm-<%= col_width %> col-md-<%= col_width %>">
+            <div class="image rot-<%= rotation %>">
+              <div class="thumb"><%= image_tag gallery["thumb"], :class => "img-responsive" %></div>
+              <div class="date"><%= gallery["date"] %></div>
+            </div>
+          </div>
+          <% end %>
+        <% end %>
+      </div>
+    </div>
+    <% end %>
+  </div>
+</div>

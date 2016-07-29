@@ -1,0 +1,35 @@
+<div id="<%= data["id"] %>" class="news row">
+  <div class="col-xs-12 col-sm-9 col-md-9">
+    <div class="title"><%= data["title"] %></div>
+    <div class="date"><%= data["date"] %></div>
+    <div class="content"><%= summary ? TruncateHTML.truncate_html(data["text"], 984) : data["text"] %></div>
+    <% if summary %>
+      <%= link_to "Leggi di più", "/news/#{data["id"]}.html#news", :class => "link" %>
+    <% end %>
+  </div>
+  <div class="col-xs-12 col-sm-3 col-md-3">
+    <div class="image <%= if summary then "summary" end %>">
+      <% if data["link"] %>
+        <% link_to data["link"], :target => "_blank" do %>
+          <%= image_tag "news/thumbs/#{data['image']}", :class => "img-responsive" %>
+        <% end %>
+      <% else %>
+        <%= image_tag "news/thumbs/#{data['image']}", :class => "img-responsive" %>
+      <% end %>
+    </div>
+    <% if !summary and data["additional_images"] %>
+      <% data["additional_images"].each do |i| %>
+    <div class="image visible-lg visible-md visible-sm">
+      <% link_to i["link"], :target => "_blank" do %>
+        <%= image_tag "news/thumbs/#{i['img']}", :class => "img-responsive" %>
+      <% end %>
+    </div>
+      <% end %>
+    <% end %>
+  </div>
+  <div class="col-xs-12 col-sm-12 col-md-12">
+    <% if not summary %>
+      <%= link_to "Torna alle News", "/##{data["id"]}", :class => "bottom-link" %>
+    <% end %>
+  </div>
+</div>

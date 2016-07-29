@@ -1,0 +1,102 @@
+---
+title: Programma
+---
+
+<% content_for :additional_js do %>
+  <%= javascript_include_tag "modal" %>
+<% end %>
+
+<div id="agenda" class="row">
+  <div class="agenda-container col-xs-12 col-sm-12 col-md-12">
+    <div class="heading"><%= current_page.data.title %></div>
+    <% data.agenda.each_with_index do |day, agenda_index| %>
+    <% stage_names = day["stages"].map{ |s| s["name"] } %>
+    <% schedule = get_schedule_by_time(day["stages"]) %>
+      <div id="<%= day['day'].downcase.sub(" ", "") %>" class="day color-<%= agenda_index % 3 %>"><span><%= day["day"] %></span></div>
+      <%# Desktop and mobile table %>
+      <table class="schedule hidden-lt-676px">
+        <thead>
+          <tr>
+            <th class="time" scope="col">Orari</th>
+            <% stage_names.each do |name| %>
+            <th class="stage" scope="col"><%= name %></th>
+            <% end %>
+          </tr>
+        </thead>
+        <tbody>
+          <% schedule.each do |time, bands| %>
+          <tr>
+            <th class="time" scope="row"><%= time %></th>
+            <% stage_names.each do |stage_name| %>
+            <%= td_band_tag bands[stage_name], true %>
+            <% end %>
+          </tr>
+          <% end %>
+        </tbody>
+        <% if day["after"] %>
+        <tfoot>
+          <% day["after"].each do |after| %>
+          <tr class="after color-<%= agenda_index % 3 %>">
+            <%= td_after_tag after, stage_names.length + 1, true %>
+          </tr>
+          <% end %>
+        </tfoot>
+        <% end %>
+      </table>
+
+      <%# Mobile tables %>
+      <% stage_names.each_with_index do |stage_name, stage_index| %>
+      <table class="schedule hidden-gt-676px">
+        <thead>
+          <tr>
+            <th class="time" scope="col">Orari</th>
+            <th class="stage <%= (stage_index % 2 == 0)? 'even' : 'odd' %>" scope="col"><%= stage_name %></th>
+          </tr>
+        </thead>
+        <tbody>
+          <% schedule.each do |time, bands| %>
+          <tr>
+            <th class="time" scope="row"><%= time %></th>
+            <%= td_band_tag bands[stage_name], false %>
+          </tr>
+          <% end %>
+        </tbody>
+        <% if day["after"] %>
+        <tfoot>
+          <% day["after"].each do |after| %>
+          <tr class="after color-<%= agenda_index % 3 %>">
+            <%= td_after_tag after, 2, false %>
+          </tr>
+          <% end %>
+        </tfoot>
+        <% end %>
+      </table>
+      <% end %>
+
+    <% end %>
+
+    <% data.bands.main.concat(data.bands.hiphop).each do |data| %>
+    <% name = data["name"].gsub(/[^a-zA-Z1-9]/,"").downcase %>
+    <div class="modal fade" id='<%= "#{name}-modal" %>' tabindex="-1" role="dialog" aria-labelledby='<%= "#{name}" %>' aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="band-info modal-content">
+        </div>
+      </div>
+    </div>
+    <% end %>
+    <% bookdata = get_data("book", "takeabookaround") %>
+    <% book_id = bookdata["title"].gsub(/[^a-zA-Z1-9]/,"").downcase %>
+    <div class="modal fade" id='<%= "#{book_id}-modal" %>' tabindex="-1" role="dialog" aria-labelledby='<%= "#{book_id}" %>' aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="band-info modal-content">
+        </div>
+      </div>
+    </div>
+
+    <div id="map" class="map">
+      <div class="day color-0"><span>Area Festival</span></div>
+      <%= image_tag "map.jpg", :class => "img-responsive" %>
+    </div>
+    <div class="return link"><%= link_to "Torna in cima", "#top" %></div>
+  </div>
+</div>

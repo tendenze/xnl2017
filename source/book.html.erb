@@ -1,0 +1,30 @@
+<div class="modal-container container-fluid">
+  <div class="row color-<%= color_index %>">
+    <div class="banner col-xs-12 col-sm-12 col-md-12">
+      <% banner_path = data["banner"]? data["banner"] : "bands/banners/base.jpg" %>
+      <%= image_tag banner_path, :class => "img-responsive" %>
+    </div>
+    <div class="content col-xs-12 col-sm-12 col-md-12">
+      <div class="buttons">
+      <% if is_modal %>
+        <span class="return first" data-dismiss="modal"><%= link_to "Chiudi", "#" %></span>
+      <% else %>
+        <span class="return first hidden-lg hidden-md">
+          <%= link_to "Vai al Programma", "/programma.html#ven18" %>
+        </span>
+      <% end %>
+      </div>
+      <div class="name title"><%= data["title"] %></div>
+      <div class="text"><%= data["text"] %></div>
+      <div class="logo">
+        <% if color_index == 0 %>
+        <%= image_tag "bands/logo_orange.png" %>
+        <% elsif color_index == 1 %>
+        <%= image_tag "bands/logo_white.png" %>
+        <% else %>
+        <%= image_tag "bands/logo_green.png" %>
+        <% end %>
+      </div>
+    </div>
+  </div>
+</div>

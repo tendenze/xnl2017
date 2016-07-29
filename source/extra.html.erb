@@ -1,0 +1,30 @@
+---
+title: Extra
+---
+
+<div id="extra" class="row">
+  <div class="extra-container col-xs-12 col-sm-12 col-md-12">
+    <div class="heading"><%= current_page.data.title %></div>
+    <div class="intro">
+      A fianco delle più tradizionali "bancarelle" che affolleranno la parte "expo", anche quest'anno Tendenze offrirà un ulteriore percorso tra installazioni interattive, spazi performativi e progetti creativi a sfondo sociale, il tutto affiancato da spicchi di danza, teatro, arti circensi e, naturalmente, stand gastronomici per onnivori, carnivori e vegani. <strong>La lista e le schede sono in continuo aggiornamento!</strong>
+    </div>
+    <% get_data_array("extra").sort_by{ |d| d["name"].downcase }.each do |data| %>
+    <div class="exhibitor">
+      <div class="title"><%= data["title"] %></div>
+      <div class="description"><%= data["text"] %></div>
+      <% if data["banner"] %>
+      <div class="banner">
+        <% banner = image_tag data["banner"], :class => "img-responsive" %>
+        <% if data["link"] %>
+          <% link_to data["link"], :target => "_blank" do %>
+            <%= banner %>
+          <% end %>
+        <% else %>
+          <%= banner %>
+        <% end %>
+      </div>
+      <% end %>
+    </div>
+    <% end %>
+  </div>
+</div>

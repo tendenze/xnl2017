@@ -1,0 +1,23 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Tendenze Festival 2015">
+  <meta name="author" content="">
+  <meta property="og:title" content="Tendenze Festival 2015" />
+  <meta property="og:description" content="18-19-20 Settembre - Piacenza" />
+  <meta property="og:image" content="/img/banner.png" />
+
+  <%= favicon_tag 'favicon.ico' %>
+
+  <%# Use title if it's in the page YAML frontmatter %>
+  <% year = current_page.data.year ? current_page.data.year : 2015 %>
+  <% base_title = "Tendenze Festival " + year.to_s %>
+  <title>
+    <%= current_page.data.title ? (base_title + " | " + current_page.data.title).strip() : base_title %>
+  </title>
+
+  <%= stylesheet_link_tag "bootstrap.min", "custom" %>
+  <%= yield_content :additional_css %>
+</head>
