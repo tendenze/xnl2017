@@ -5,10 +5,10 @@ body.fluid {
 }
 
 #header {
-	margin-bottom: 20px;
+	margin-bottom: 40px;
 }
 #header .banner {
-	padding-top: 115px;
+	padding-top: 40px;
 	background-color: #7fc8db;
 	text-align: center;
 }
@@ -30,10 +30,20 @@ body.fluid {
 	margin-bottom: 5px;
 }
 #header .subtitle .info.pitch {
-	margin-bottom: 0px;
+	margin-bottom: 10px;
+	padding: 0px 25px;
 }
 #header .subtitle .info.email a {
-	color: #006bb2;
+	display: inline-block;
+	padding: 5px 10px;
+	background-color: #E5F4F8;
+	color: #7FC8DB;
+	font-size: 30px;
+	border-radius: 7px;
+	text-decoration: none;
+}
+#header .subtitle .info.email a:hover {
+    color: #006bb2;
 }
 #header .subtitle .info li.text span {
 	background: none;
@@ -45,10 +55,10 @@ body.fluid {
 	border-bottom: 2px solid #006bb2;
 }
 #header .waves {
-	background-image: url("../img/wave-big.png");
+	background-image: url("../img/wave.svg");
 	background-repeat: repeat-x;
 	background-size: 160px 55px;
-	padding-top: 55px;
+	padding-top: 54px;
 }
 
 @media screen and (min-width: 769px) {
@@ -69,15 +79,18 @@ body.fluid {
 	#header .subtitle .info li.text:last-child span {
 		border-bottom: none;
 	}
+	#header .subtitle .info.pitch {
+		font-size: 35px;
+	}
 	#header .waves {
 		background-size: 248px 85px;
-		padding-top: 85px;
+		padding-top: 84px;
 	}
 }
 @media screen and (min-width: 992px) {
 	#header .waves {
 		background-size: 300px 102px;
-		padding-top: 102px;
+		padding-top: 101px;
 	}
 }
 
@@ -92,7 +105,7 @@ body.fluid {
     background-color: #7fc8db;
     color: #e5f4f8;
     font-size: 30px;
-    border-radius: 2px;
+    border-radius: 7px;
     text-decoration: none;
 }
 #main .return-link:hover {
