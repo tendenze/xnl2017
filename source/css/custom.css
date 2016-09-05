@@ -21,12 +21,9 @@
 /* --- GLOBAL TWEAKS --- */
 body {
   background: #d7eef4;
-  background-position: center top;
-  background-attachment: fixed;
-  background-size: cover;
   padding-top: 5px;
   font-size: 14px;
-  color: #3d3d3f;
+  color: #182259;
 }
 body.fluid {
   background: #373536 url("../img/background-bands.jpg") repeat-x fixed center top / cover;
@@ -304,7 +301,7 @@ body.fluid {
 }
 .news-container .news .image img {
   margin-top: 57px;
-  border: 2px solid #3d3d3f;
+  border-radius: 20px;
 }
 .news-container .news .content h3 {
   font-family: big-noodle, Arial, sans-serif;
