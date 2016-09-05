@@ -1,31 +1,10 @@
----
-no_js: true
-year: 2016
----
-
-<% content_for :additional_css do %>
-  <%= stylesheet_link_tag "landing2016" %>
-<% end %>
-
-<div id="header" class="container-fluid">
-  <div class="row">
-    <div class="banner">
-      <div class="title">Tendenze Festival<span>3.0</span></div>
-      <div class="subtitle">
-        <ul class="info primary">
-          <li class="text"><span>16-17-18 Settembre</span></li>
-          <li class="text"><span>XXII Edizione</span></li>
-          <li class="text"><span>Spazio 4 - Piacenza</span></li>
-        </ul>
-        <div class="info pitch">Candida il tuo progetto musicale o il tuo stand espositivo</div>
-        <div class="info email">
-          <%= link_to "Iscriviti Qui", "mailto:#{data.contacts.email}" %>
-        </div>
-      </div>
-      <div class="waves"></div>
-    </div>
+<div id="news" class="row">
+  <div class="news-container col-xs-12 col-sm-12 col-md-12">
+    <div class="heading">News</div>
+    <% get_md_files("data/news").reverse_each do |name| %>
+    <% data = get_data("news", name) %>
+      <% data["id"] = name %>
+      <%= partial "partials/news", :locals => { :data => data, :summary => true } %>
+    <% end %>
   </div>
-</div>
-<div id="main">
-  <%= link_to 'Vai alla home page 2015', '/index2015.html', :class => "return-link" %>
 </div>
