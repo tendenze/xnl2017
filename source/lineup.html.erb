@@ -15,6 +15,7 @@ active: true
         :bands => data.bands.main,
         :base_index => 0,
         :modals_active => current_page.data.active } %>
+  <% if data.bands.extra %>
   <div class="more col-xs-12 col-sm-12 col-md-12">
     <% data.bands.extra.each_with_index do |data, index| %>
     <% color = "color-" + (index % 3).to_s %>
@@ -35,7 +36,8 @@ active: true
     </div>
     <% end %>
   </div>
-  <%= partial "partials/lineup_grid", :locals => {
+  <% end %>
+  <%#= partial "partials/lineup_grid", :locals => {
         :bands => data.bands.hiphop,
         :base_index => data.bands.main.length,
         :modals_active => current_page.data.active } %>

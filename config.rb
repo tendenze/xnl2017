@@ -102,7 +102,7 @@ ready do
   end
 
   gen_band_pages(data.bands.main, 0)
-  gen_band_pages(data.bands.hiphop, data.bands.main.length)
+  # gen_band_pages(data.bands.hiphop, data.bands.main.length)
 
   bookdata = get_data("book", "takeabookaround")
   book_name_id = bookdata["title"].gsub(/[^a-zA-Z1-9]/,"").downcase
