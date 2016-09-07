@@ -1,4 +1,5 @@
-<div id="header" class="row">
+<% header_class = current_page.data.main_header ? "big" : "" %>
+<div id="header" class="row <%= header_class %>">
   <div class="banner col-xs-12 col-sm-12 col-md-12">
     <% link_to "/", :class => "home-link" do %>
     <div class="image"></div>

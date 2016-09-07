@@ -56,6 +56,12 @@ body.fluid {
   background: url(../img/banner.png) no-repeat;
   background-size: cover;
   background-position: center center;
+  padding-top: 27.41%;
+}
+#header.big .banner .home-link .image {
+  background: url(../img/banner-big.png) no-repeat;
+  background-size: cover;
+  background-position: center center;
   padding-top: 46.77%;
 }
 
