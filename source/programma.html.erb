@@ -75,7 +75,7 @@ title: Programma
 
     <% end %>
 
-    <% data.bands.main.concat(data.bands.hiphop).each do |data| %>
+    <% data.bands.main.each do |data| %>
     <% name = data["name"].gsub(/[^a-zA-Z1-9]/,"").downcase %>
     <div class="modal fade" id='<%= "#{name}-modal" %>' tabindex="-1" role="dialog" aria-labelledby='<%= "#{name}" %>' aria-hidden="true">
       <div class="modal-dialog modal-lg">

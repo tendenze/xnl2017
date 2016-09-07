@@ -26,9 +26,9 @@ main:
   - name: "ANGOLI ACUSTICI"
     genre: Unplugged
     from: Piacenza
-    date: Sabato 19
+    date: Sabato 17
     time: "19.20"
-    stage: Parlor
+    stage: Main Stage
     thumbnail: bands/thumbs/angoli.jpg
     color: blue
     banner: bands/banners/angoli.jpg
@@ -76,7 +76,7 @@ main:
     from: Senza fissa dimora
     date: Venerdì 16
     time: "24.00"
-    stage: Main
+    stage: Main Stage
     thumbnail: bands/thumbs/babbu.jpg
     color: purple
     banner: bands/banners/babbu.jpg
@@ -88,7 +88,7 @@ main:
     from: Piacenza
     date: Venerdì 16
     time: "21.00"
-    stage: Main
+    stage: Main Stage
     thumbnail: bands/thumbs/blossom.jpg
     color: green
     banner: bands/banners/blossom.jpg
@@ -107,7 +107,7 @@ main:
     link: "https://www.facebook.com/pages/Blue-Freedom/646222288803316"
     embed: "http://youtu.be/rDhoCIU4B3M"
 
-  - name: "BOP IN TROUBLE uninoise"
+  - name: "BOP IN TROUBLE UNINOISE"
     genre: Indie-Electro
     from: Piacenza
     date: Sabato 17
@@ -326,7 +326,7 @@ main:
   - name: "MIKELESS & CLO PASSARO"
     genre: Funky-blues e danza contemporanea
     from: Piacenza
-    date: Giovedì 17
+    date: Giovedì 15
     time: "21.30"
     stage: Portichetto
     thumbnail: bands/thumbs/mike.jpg
@@ -362,7 +362,7 @@ main:
   - name: "NOBODY CRIED 4 DINOSAURS"
     genre: Alternative/Indie/Pop-rock
     from: Milano
-    date: Giovedì 17
+    date: Giovedì 15
     time: "24.00"
     stage: Portichetto
     thumbnail: bands/thumbs/dinosaurs.jpg
@@ -374,7 +374,7 @@ main:
   - name: "NO TNX"
     genre: Rock
     from: Piacenza
-    date: Giovedì 17
+    date: Giovedì 15
     time: "20.00"
     stage: Portichetto
     thumbnail: bands/thumbs/notnx.jpg
@@ -566,7 +566,7 @@ main:
   - name: "SONICATOMIC"
     genre: psych-rock / noise
     from: Alessandria
-    date: Giovedì 17
+    date: Giovedì 15
     time: "22.30"
     stage: Portichetto
     thumbnail: bands/thumbs/sonicatomic.jpg
@@ -640,7 +640,7 @@ main:
     from: Piacenza
     date: Venerdì 16
     time: "20.00"
-    stage: Main
+    stage: Main Stage
     thumbnail: bands/thumbs/ferr.jpg
     color: blue
     banner: bands/banners/ferr.jpg
@@ -688,7 +688,7 @@ main:
     from: Piacenza
     date: Venerdì 16
     time: "23.00"
-    stage: Main
+    stage: Main Stage
     thumbnail: bands/thumbs/tough.jpg
     color: purple
     banner: bands/banners/tough.jpg
@@ -724,7 +724,7 @@ main:
     from: Parma
     date: Venerdì 16
     time: "22.00"
-    stage: Main
+    stage: Main Stage
     thumbnail: bands/thumbs/wah.jpg
     color: purple
     banner: bands/banners/wah.jpg
@@ -734,7 +734,7 @@ main:
   - name: "ZEBRA FINK"
     genre: Rock
     from: Piacenza
-    date: Giovedì 17
+    date: Giovedì 15
     time: "24.30"
     stage: Main Stage
     thumbnail: bands/thumbs/zebra.jpg

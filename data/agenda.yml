@@ -1,4 +1,4 @@
-- day: VEN 18
+- day: GIO 15
   after:
    - name: "+ Afterparty @ Delubra Club"
      link: "https://www.facebook.com/events/1486745014982420/"
@@ -7,126 +7,84 @@
   stages:
     - name: Portichetto
       schedule:
-        - time: "18.00"
-          band: LOTS
-        - time: "18.40"
-          band: Blue Freedom
-        - time: "19.20"
-          band: Great Scott!
-        - time: "20.00"
+        - time: "19.00"
           band:
+        - time: "19.30"
+          band: ENJOY PENINSULA
+        - time: "20.00"
+          band: NO TNX
         - time: "20.30"
-          band: Red Car Burns
+          band:
         - time: "21.00"
           band:
         - time: "21.30"
-          band: Three Horns
+          band: MIKELESS & CLO PASSARO
         - time: "22.00"
           band:
         - time: "22.30"
-          band: Blugrana
+          band: SONICATOMIC
         - time: "23.00"
           band:
         - time: "23.30"
-          band: "Le sacerdotesse dell'isola del piacere"
-        - time: "00.00"
           band:
+        - time: "00.00"
+          band: NOBODY CRIED 4 DINOSAURS
         - time: "00.30"
-          band: Eterea Post Bong band
-        - time: Dj-set
-          band: Gianni Fuso Nerini
+          band:
     - name: Main Stage
       schedule:
-        - time: "18.00"
+        - time: "19.00"
           band:
-        - time: "18.40"
+        - time: "19.30"
           band:
-        - time: "19.20"
+        - time: "20.30"
           band:
-        - time: "20.00"
-          band: Iena vs Infected
         - time: "20.30"
           band:
         - time: "21.00"
-          band: Koen vs Nijls
+          band: Antonio Ferrari
         - time: "21.30"
           band:
         - time: "22.00"
-          band: Misfatto vs Stereo Gazette
+          band: ANTS
         - time: "22.30"
           band:
         - time: "23.00"
-          band: Link Quartet
+          band: LANDLORD
         - time: "23.30"
           band:
         - time: "00.00"
-          band: Black Beat Movement
-        - time: "00.30"
-          band:
-        - time: Dj-set
-          band:
-    - name: Parlor Stage
-      schedule:
-        - time: "18.00"
-          band: Take a Book Around
-        - time: "18.40"
-          band:
-        - time: "19.20"
-          band: Snekula
-        - time: "20.00"
-          band:
-        - time: "20.30"
-          band: Bezirk Sothiac
-        - time: "21.00"
-          band:
-        - time: "21.30"
-          band: Martello
-        - time: "22.00"
-          band:
-        - time: "22.30"
-          band: Oh Lazarus
-        - time: "23.00"
-          band:
-        - time: "23.30"
-          band: Elli De Mon
-        - time: "00.00"
           band:
         - time: "00.30"
-          band: The Bucket Butchers
-        - time: Dj-set
-          band:
+          band: ZEBRA FINK
     - name: Boschetto
       schedule:
-        - time: "18.00"
-          band:
-        - time: "18.40"
-          band:
-        - time: "19.20"
+        - time: "19.00"
+          band: Ale Vaghi
+        - time: "19.30"
           band:
         - time: "20.00"
           band:
         - time: "20.30"
-          band: Elezoid
+          band:
         - time: "21.00"
           band:
         - time: "21.30"
-          band: Scardo
+          band:
         - time: "22.00"
           band:
         - time: "22.30"
-          band: Ale Vaghi
+          band:
         - time: "23.00"
           band:
         - time: "23.30"
-          band: Blackat Crew
+          band:
         - time: "00.00"
           band:
         - time: "00.30"
-          band: Matteo Trippi
-        - time: Dj-set
           band:
 
-- day: SAB 19
+- day: VEN 16
   after:
    - name: "+ The Bucket Butchers (street drumming itinerante)"
      band: The Bucket Butchers
@@ -134,125 +92,193 @@
     - name: Portichetto
       schedule:
         - time: "18.00"
-          band: The Wanderers
-        - time: "18.40"
-          band: Mikeless
-        - time: "19.20"
-          band: Sayno
+          band: RENZO E I TAFFERUGLI
+        - time: "18.45"
+          band: ALL BUT FACE
+        - time: "19.00"
+          band:
+        - time: "19.30"
+          band: DELATES
         - time: "20.00"
           band:
         - time: "20.30"
-          band: Maladissa
+          band: EVIL EYE LODGE
         - time: "21.00"
           band:
         - time: "21.30"
-          band: Chow
+          band: MAKHNO
         - time: "22.00"
           band:
         - time: "22.30"
-          band: Red Sun
+          band: RAMBO
         - time: "23.00"
           band:
         - time: "23.30"
-          band: A Theory of Justice
+          band: THE KOCKA MOW MOW'S
         - time: "00.00"
           band:
         - time: "00.30"
-          band: Devotion
-        - time: Dj-set
-          band: "Roberto Dassoni & Danilo Filios"
+          band:
     - name: Main Stage
       schedule:
         - time: "18.00"
           band:
-        - time: "18.40"
+        - time: "18.45"
           band:
-        - time: "19.20"
+        - time: "19.00"
+          band:
+        - time: "19.30"
           band:
         - time: "20.00"
-          band: Enthused
+          band: THE FERRETS
         - time: "20.30"
           band:
         - time: "21.00"
-          band: Slut Machine vs Protection Zero
+          band: BLOSSOM SESSION
         - time: "21.30"
           band:
         - time: "22.00"
-          band: Electric Swan vs Doctor Cyclops
+          band: WAH'77
         - time: "22.30"
           band:
         - time: "23.00"
-          band: Noon
+          band: TOUGH
         - time: "23.30"
           band:
         - time: "00.00"
-          band: Nico
+          band: BABBUTZI ORKESTAR
         - time: "00.30"
-          band:
-        - time: Dj-set
-          band:
-    - name: Parlor Stage
-      schedule:
-        - time: "18.00"
-          band: Take a Book Around
-        - time: "18.40"
-          band: Joe Croci
-        - time: "19.20"
-          band: Angoli Acustici
-        - time: "20.00"
-          band:
-        - time: "20.30"
-          band: Francesco Zucchi
-        - time: "21.00"
-          band:
-        - time: "21.30"
-          band: Tears
-        - time: "22.00"
-          band:
-        - time: "22.30"
-          band: Bestie
-        - time: "23.00"
-          band:
-        - time: "23.30"
-          band: Zolle
-        - time: "00.00"
-          band:
-        - time: "00.30"
-          band: Bleak Seven
-        - time: Dj-set
           band:
     - name: Boschetto
       schedule:
         - time: "18.00"
           band:
-        - time: "18.40"
+        - time: "18.45"
+          band:
+        - time: "19.00"
+          band:
+        - time: "19.30"
+          band:
+        - time: "20.00"
+          band: RICKY JAMES
+        - time: "20.30"
+          band:
+        - time: "21.00"
+          band: KARL SCOTCH
+        - time: "21.30"
+          band:
+        - time: "22.00"
+          band: TEEEEEEPEEEEE
+        - time: "22.30"
+          band:
+        - time: "23.00"
+          band: JUNGLE RADIO
+        - time: "23.30"
+          band:
+        - time: "00.00"
+          band: PINZA+LELE
+        - time: "00.30"
+          band: SONS OF ROBOTS
+
+- day: SAB 17
+  after:
+   - name: "+ Laboratorio di giocoleria per ragazzi e bambini alle ore 16 nel prato"
+   - name: "+ Laboratorio di acrobatica a coppie per ragazzi e adulti alle ore 18 nel prato"
+   - name: "+ The Bucket Butchers (street drumming itinerante)"
+     band: The Bucket Butchers
+  stages:
+    - name: Portichetto
+      schedule:
+        - time: "18.45"
+          band: BLUE FREEDOM
+        - time: "19.00"
           band:
         - time: "19.20"
           band:
+        - time: "19.30"
+          band: KILLER4
         - time: "20.00"
           band:
         - time: "20.30"
-          band: Sunday in Soarza
+          band: ARBOS
         - time: "21.00"
           band:
         - time: "21.30"
-          band: Shune
+          band: KRANG
         - time: "22.00"
-          band:
+          band: TELEMACHOS TELEGRAPH
         - time: "22.30"
-          band: Kryss Hypnowave
+          band: CELLAMARE
         - time: "23.00"
           band:
         - time: "23.30"
-          band: Second Impact
+          band: TUBAX
         - time: "00.00"
           band:
         - time: "00.30"
-          band: Adeh
-        - time: Dj-set
           band:
+    - name: Main Stage
+      schedule:
+        - time: "18.45"
+          band:
+        - time: "19.00"
+          band:
+        - time: "19.20"
+          band: ANGOLI ACUSTICI
+        - time: "19.30"
+          band:
+        - time: "20.00"
+          band: PROCLAMA
+        - time: "20.30"
+          band:
+        - time: "21.00"
+          band: DENDROPHILIA
+        - time: "21.30"
+          band:
+        - time: "22.00"
+          band:
+        - time: "22.30"
+          band:
+        - time: "23.00"
+          band: QUIET SONIC
+        - time: "23.30"
+          band:
+        - time: "00.00"
+          band: LN RIPLEY SOUNDSYSTEM
+        - time: "00.30"
+          band:
+    - name: Boschetto
+      schedule:
+        - time: "18.45"
+          band: LUCA ISIDORI
+        - time: "19.00"
+          band:
+        - time: "19.20"
+          band:
+        - time: "19.30"
+          band: PINO L'ABBADESSA & ANGELO CONTINI
+        - time: "20.00"
+          band: MARCIDO MARCIDORJS
+        - time: "20.30"
+          band:
+        - time: "21.00"
+          band: SECOND IMPACT
+        - time: "21.30"
+          band:
+        - time: "22.00"
+          band: BOP IN TROUBLE UNINOISE
+        - time: "22.30"
+          band:
+        - time: "23.00"
+          band: TECHFOOD ft. MATTIA CIGALINI
+        - time: "23.30"
+          band:
+        - time: "00.00"
+          band:
+        - time: "00.30"
+          band: IL LEPROTTO
 
-- day: DOM 20
+- day: DOM 18
   after:
    - name: "+ Laboratorio di giocoleria per ragazzi e bambini alle ore 16 nel prato"
    - name: "+ Laboratorio di acrobatica a coppie per ragazzi e adulti alle ore 18 nel prato"
@@ -262,120 +288,84 @@
     - name: Portichetto
       schedule:
         - time: "18.00"
-          band: Sound Chemistry
-        - time: "18.40"
-          band: Amperehead
-        - time: "19.20"
-          band: The Ferrets
+          band: SANTAMADDALENA
+        - time: "18.45"
+          band: UNSYLENCE
+        - time: "19.00"
+          band:
+        - time: "19.30"
+          band: MY DEAD IDOLS
         - time: "20.00"
           band:
         - time: "20.30"
-          band: Jojo In the Stars
+          band: KICKSTARTER RITUAL
         - time: "21.00"
           band:
         - time: "21.30"
-          band: Bad Frog
+          band: SOLKI
         - time: "22.00"
           band:
         - time: "22.30"
-          band: Mitch and the Teekays
+          band: ERMES
         - time: "23.00"
           band:
         - time: "23.30"
-          band: Bravi Tutti
+          band: OTTONE PESANTE
         - time: "00.00"
           band:
-        - time: "00.30"
-          band: Morrywood
-        - time: Dj-set
-          band: "Les Fufies & the Rubbish"
     - name: Main Stage
       schedule:
         - time: "18.00"
           band:
-        - time: "18.40"
+        - time: "18.45"
+          band: UNSYLENCE
+        - time: "19.00"
           band:
-        - time: "19.20"
+        - time: "19.30"
           band:
         - time: "20.00"
-          band: Quiet Sonic
+          band: TORTURE GARDEN
         - time: "20.30"
           band:
         - time: "21.00"
-          band: Black Gremlin
+          band: SØNDAG
         - time: "21.30"
           band:
         - time: "22.00"
-          band: Uomoman
+          band: Selvə
         - time: "22.30"
           band:
         - time: "23.00"
-          band: Quasiviri
+          band: SDANG!
         - time: "23.30"
           band:
         - time: "00.00"
-          band: Uochi Toki
-        - time: "00.30"
-          band:
-        - time: Dj-set
-          band:
-    - name: Parlor Stage
+          band: MORKOBOT
+    - name: Boschetto
       schedule:
         - time: "18.00"
-          band: Take a Book Around
-        - time: "18.40"
+          band: TINCAN
+        - time: "18.45"
+          band: UNSYLENCE
+        - time: "19.00"
           band:
-        - time: "19.20"
-          band: Marcido Marcidorjs e Famosa Mimosa
+        - time: "19.30"
+          band: SUNWISE SOUND FAMILY
         - time: "20.00"
           band:
         - time: "20.30"
-          band: Erica Opizzi
+          band:
         - time: "21.00"
           band:
         - time: "21.30"
-          band: Maddalena Conni
-        - time: "22.00"
           band:
+        - time: "22.00"
+          band: OTUS BATTLE
         - time: "22.30"
-          band: K(s)/A/L
+          band:
         - time: "23.00"
           band:
         - time: "23.30"
-          band: Baritoprince
-        - time: "00.00"
-          band:
-        - time: "00.30"
-          band:
-        - time: Dj-set
-          band:
-    - name: Hip Hop Stage - Boschetto
-      schedule:
-        - time: "18.00"
-          band:
-        - time: "18.40"
-          band:
-        - time: "19.20"
-          band: Dj Soul
-        - time: "20.00"
-          band: Uomini Colorati
-        - time: "20.30"
-          band:
-        - time: "21.00"
-          band: Delfo
-        - time: "21.30"
-          band: Oligoro Crew
-        - time: "22.00"
-          band: Alekos
-        - time: "22.30"
-          band: "Mucci, Nic lo schiaffo & Millo T."
-        - time: "23.00"
-          band: PHNX Crew
-        - time: "23.30"
           band:
         - time: "00.00"
-          band:
-        - time: "00.30"
-          band:
-        - time: Dj-set
           band:
