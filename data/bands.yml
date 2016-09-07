@@ -93,7 +93,7 @@ main:
     color: green
     banner: bands/banners/blossom.jpg
     link: "https://www.facebook.com/blackbloodyblossom/?fref=ts"
-    embed: "https://blackbloodyblossom.bandcamp.com/album/black-bloody-blossom-ep"
+    embed: "https://bandcamp.com/EmbeddedPlayer/album=1653540420/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/|https://blackbloodyblossom.bandcamp.com/album/black-bloody-blossom-ep|Black Bloody Blossom EP by Black Bloody Blossom"
 
   - name: "BLUE FREEDOM"
     genre: Blues-Hard-Rock'n'roll
@@ -153,7 +153,7 @@ main:
     color: purple
     banner: bands/banners/dendro.jpg
     link: "https://www.facebook.com/dendrophilia0/?fref=ts"
-    embed: "https://dendrophilia0.bandcamp.com/"
+    embed: "https://bandcamp.com/EmbeddedPlayer/album=4076662552/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/|https://dendrophilia0.bandcamp.com/album/dendrophilia|Dendrophilia by Dendrophilia"
 
   - name: "ENJOY PENINSULA"
     genre: Spaghetti Metal
@@ -177,7 +177,7 @@ main:
     color: blue
     banner: bands/banners/ermes.jpg
     link: "https://www.facebook.com/ermesband/?fref=ts"
-    embed: "https://ermesband.bandcamp.com/releases"
+    embed: "https://bandcamp.com/EmbeddedPlayer/album=3313085846/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/|https://ermesband.bandcamp.com/album/ermes|ERMES by ERMES"
 
   - name: "EVIL EYE LODGE"
     genre: Blues/Folk'n'roll
@@ -525,7 +525,7 @@ main:
     color: green
     banner: bands/banners/selva.jpg
     link: "https://www.facebook.com/selvapbs/?fref=ts"
-    embed: "https://selvapbs.bandcamp.com/"
+    embed: "https://bandcamp.com/EmbeddedPlayer/album=871401035/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/|https://selvapbs.bandcamp.com/album/el-o|eléo by ['selvə]"
 
   - name: "SDANG!"
     genre: Post prog / math rock
@@ -549,7 +549,7 @@ main:
     color: purple
     banner: bands/banners/solki.jpg
     link: "https://www.facebook.com/solkisolkisolki/?fref=ts"
-    embed: "https://solki.bandcamp.com/releases"
+    embed: "https://bandcamp.com/EmbeddedPlayer/album=1937903482/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/|https://solki.bandcamp.com/releases|Sleeper Grele by Solki"
 
   - name: "SØNDAG"
     genre: Low/Tuned Rock
@@ -693,7 +693,7 @@ main:
     color: purple
     banner: bands/banners/tough.jpg
     link: "https://www.facebook.com/ToughPunkRock/?fref=ts"
-    embed: "https://tough.bandcamp.com/album/mess"
+    embed: "https://bandcamp.com/EmbeddedPlayer/album=3952875054/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/|https://tough.bandcamp.com/album/mess|Mess by TOUGH"
 
   - name: "TUBAX"
     genre: Laser Funk
@@ -729,7 +729,7 @@ main:
     color: purple
     banner: bands/banners/wah.jpg
     link: "https://www.facebook.com/wah77punk/?fref=ts"
-    embed: "https://retrovoxrecords.bandcamp.com/album/wah-77-bet-on-it"
+    embed: "https://bandcamp.com/EmbeddedPlayer/album=1080164386/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/|https://retrovoxrecords.bandcamp.com/album/wah-77-bet-on-it|BET ON IT by WAH' 77"
 
   - name: "ZEBRA FINK"
     genre: Rock
