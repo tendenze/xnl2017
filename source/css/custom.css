@@ -433,7 +433,7 @@ body.fluid {
   padding-top: 10px;
 }
 #lineup .image {
-  background: #3d3d3f url("../img/bands/thumbs/empty.jpg") center top / cover;
+  background: #0e1543;
   max-width: 204px;
   margin: 0 auto;
   border: 1px solid #3D3D3F;
@@ -448,7 +448,7 @@ body.fluid {
   top: 0;
 }
 #lineup .image .name {
-  background: #3d3d3f url("../img/bands/thumbs/empty.jpg") center bottom / cover;
+  background: #0e1543;
   font-family: big-noodle, Arial, sans-serif;
   font-size: 25px;
   line-height: 1;

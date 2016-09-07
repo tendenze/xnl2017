@@ -381,7 +381,7 @@ main:
     color: green
     banner: bands/banners/notnx.jpg
     link: "https://www.facebook.com/the.notnx/"
-    embed: "https://www.youtube.com/watch?v=F-BkgFObV9o&list=PLA7u2mlOpFyEAVBjuRVKkZnqTl8LmA11F"
+    embed: "https://www.youtube.com/watch?v=F-BkgFObV9o"
 
   - name: "OTTONE PESANTE"
     genre: Heavy Brass Metal
@@ -717,7 +717,7 @@ main:
     color: blue
     banner: bands/banners/unsy.jpg
     link: "https://www.facebook.com/UnsylenceOfficial/?fref=ts"
-    embed: "https://www.youtube.com/watch?v=ERpHfXPREOM&list=PLGs5mLHjtqT_TYNpuTrrXo6j0cezg3DMc&index=4"
+    embed: "https://www.youtube.com/watch?v=ERpHfXPREOM"
 
   - name: "WAH'77"
     genre: Speed Punk'n'Roll
@@ -741,4 +741,4 @@ main:
     color: green
     banner: bands/banners/zebra.jpg
     link: "https://www.facebook.com/ZebraFinkBand/?fref=ts"
-    embed: "https://www.youtube.com/watch?time_continue=2&v=Y9did82pelI"
+    embed: "https://www.youtube.com/watch?v=Y9did82pelI"

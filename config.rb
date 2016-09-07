@@ -171,7 +171,7 @@ helpers do
   def partial_embed(embed_code)
     if embed_code
       case embed_code
-      when /^*.youtu.*be\/(.*)$/
+      when /^*.youtu.*be\/(.*)$/, /^*.youtube.com\/watch\?v=(.*)$/
         return partial "partials/youtube_embed", :locals => { :source => $1 }
       when /^.*bandcamp.com/
         fields = embed_code.split("|")

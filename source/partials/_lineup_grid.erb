@@ -4,7 +4,7 @@
    name = data["name"].gsub(/[^a-zA-Z1-9]/,"").downcase
    color = "color-" + (index % 3).to_s
    band_image_tag = image_tag(
-    "bands/thumbs/empty.jpg",
+    "bands/thumbs/empty.png",
     :class => "img-responsive",
     "data-src" => "img/#{data['thumbnail']}",
     "data-trigger" => (index / img_group_count)
