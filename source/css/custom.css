@@ -494,13 +494,13 @@ body.fluid {
   }
 }
 #lineup .image .name.color-0 {
-  color: #f8b219;
+  color: #b2bdff;
 }
 #lineup .image .name.color-1 {
-  color: #f0f0f0;
+  color: #a9ffb5;
 }
 #lineup .image .name.color-2 {
-  color: #83b6b1;
+  color: #d7eef4;
 }
 #lineup .image.link {
   -webkit-transition: all 0.25s ease 0s;
@@ -555,39 +555,39 @@ body.fluid {
   border-radius: 2px;
 }
 .modal-container .color-0 .return a {
-  border: 1px solid #f8b219;
+  border: 1px solid #b2bdff;
 }
 .modal-container .color-1 .return a {
-  border: 1px solid #f0f0f0;
+  border: 1px solid #a9ffb5;
 }
 .modal-container .color-2 .return a{
-  border: 1px solid #83b6b1;
+  border: 1px solid #d7eef4;
 }
 .modal-container .color-0 .title,
 .modal-container .color-0 .return a {
-  color: #f8b219;
+  color: #b2bdff;
 }
 .modal-container .color-1 .title,
 .modal-container .color-1 .return a {
-  color: #f0f0f0;
+  color: #a9ffb5;
 }
 .modal-container .color-2 .title,
 .modal-container .color-2 .return a {
-  color: #83b6b1;
+  color: #d7eef4;
 }
 .modal-container .color-0 .return a:hover {
-  color: #f0f0f0;
-  background-color: #f8b219;
+  color: #182259;
+  background-color: #b2bdff;
   text-decoration: none;
 }
 .modal-container .color-1 .return a:hover {
-  color: #3d3d3f;
-  background-color: #f0f0f0;
+  color: #182259;
+  background-color: #a9ffb5;
   text-decoration: none;
 }
 .modal-container .color-2 .return a:hover {
-  color: #f0f0f0;
-  background-color: #83b6b1;
+  color: #182259;
+  background-color: #d7eef4;
   text-decoration: none;
 }
 .modal-container .banner {
