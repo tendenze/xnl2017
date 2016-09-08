@@ -2,8 +2,8 @@ main:
   - name: "ALE VAGHI"
     genre: Deep-House/Minimal-Techno
     from: Piacenza
-    date: Giovedì 15
-    time: "19.00"
+    date: Venerdì 16
+    time: "18.45"
     stage: Boschetto
     thumbnail: bands/thumbs/alevaghi.jpg
     color: purple
@@ -27,8 +27,8 @@ main:
     genre: Unplugged
     from: Piacenza
     date: Sabato 17
-    time: "19.20"
-    stage: Main Stage
+    time: "18.00"
+    stage: Portichetto
     thumbnail: bands/thumbs/angoli.jpg
     color: blue
     banner: bands/banners/angoli.jpg
@@ -107,7 +107,7 @@ main:
     link: "https://www.facebook.com/pages/Blue-Freedom/646222288803316"
     embed: "http://youtu.be/rDhoCIU4B3M"
 
-  - name: "BOP IN TROUBLE UNINOISE"
+  - name: "BOP IN TROUBLE"
     genre: Indie-Electro
     from: Piacenza
     date: Sabato 17
@@ -195,7 +195,7 @@ main:
     genre: Electro Toilet
     from: Milano
     date: Sabato 17
-    time: "00.30"
+    time: "01.00"
     stage: Boschetto
     thumbnail: bands/thumbs/lepro.jpg
     color: green
@@ -311,7 +311,7 @@ main:
     link: "https://www.facebook.com/viva.canzi?fref=ts"
     embed: "https://youtu.be/J6ACfbX3P5E"
 
-  - name: "MARCIDO MARCIDORJS"
+  - name: "MARCIDO MARCIDORJS E FAMOSA MIMOSA"
     genre: Teatro Musica Sperimentale
     from: Torino
     date: Sabato 17
@@ -359,7 +359,7 @@ main:
     link: "https://www.facebook.com/NoizePollution12/?fref=ts"
     embed: "https://www.youtube.com/watch?v=896WFZCGeSw"
 
-  - name: "NOBODY CRIED 4 DINOSAURS"
+  - name: "NOBODY CRIED FOR DINOSAURS"
     genre: Alternative/Indie/Pop-rock
     from: Milano
     date: Giovedì 15
@@ -455,7 +455,7 @@ main:
     link: "https://www.facebook.com/QuietSonic/?fref=ts"
     embed: "https://www.youtube.com/watch?v=oKPWzXFQk0U"
 
-  - name: "RAMBO"
+  - name: "THE RAMBO"
     genre: Mutant noise/blues/punk
     from: Lodi
     date: Venerdì 16
@@ -579,7 +579,7 @@ main:
     genre: Techno
     from: Parma
     date: Venerdì 16
-    time: "00.30"
+    time: "01.00"
     stage: Boschetto
     thumbnail: bands/thumbs/sons.jpg
     color: purple
@@ -628,7 +628,7 @@ main:
     from: Milano
     date: Sabato 17
     time: "22.00"
-    stage: Portichetto
+    stage: Main Stage
     thumbnail: bands/thumbs/tele.jpg
     color: green
     banner: bands/banners/tele.jpg
@@ -719,7 +719,7 @@ main:
     link: "https://www.facebook.com/UnsylenceOfficial/?fref=ts"
     embed: "https://www.youtube.com/watch?v=ERpHfXPREOM"
 
-  - name: "WAH'77"
+  - name: "WAH '77"
     genre: Speed Punk'n'Roll
     from: Parma
     date: Venerdì 16

@@ -1,20 +1,11 @@
 - day: GIO 15
-  after:
-   - name: "+ Afterparty @ Delubra Club"
-     link: "https://www.facebook.com/events/1486745014982420/"
-   - name: "+ The Bucket Butchers (street drumming itinerante)"
-     band: The Bucket Butchers
   stages:
     - name: Portichetto
       schedule:
-        - time: "19.00"
-          band:
         - time: "19.30"
           band: ENJOY PENINSULA
-        - time: "20.00"
+        - time: "20.15"
           band: NO TNX
-        - time: "20.30"
-          band:
         - time: "21.00"
           band:
         - time: "21.30"
@@ -28,18 +19,16 @@
         - time: "23.30"
           band:
         - time: "00.00"
-          band: NOBODY CRIED 4 DINOSAURS
+          band: NOBODY CRIED FOR DINOSAURS
         - time: "00.30"
           band:
+        - time: "01.00"
+          band: DJSET DELLA BUONANOTTE
     - name: Main Stage
       schedule:
-        - time: "19.00"
-          band:
         - time: "19.30"
           band:
-        - time: "20.30"
-          band:
-        - time: "20.30"
+        - time: "20.15"
           band:
         - time: "21.00"
           band: Antonio Ferrari
@@ -57,37 +46,9 @@
           band:
         - time: "00.30"
           band: ZEBRA FINK
-    - name: Boschetto
-      schedule:
-        - time: "19.00"
-          band: Ale Vaghi
-        - time: "19.30"
+        - time: "01.00"
           band:
-        - time: "20.00"
-          band:
-        - time: "20.30"
-          band:
-        - time: "21.00"
-          band:
-        - time: "21.30"
-          band:
-        - time: "22.00"
-          band:
-        - time: "22.30"
-          band:
-        - time: "23.00"
-          band:
-        - time: "23.30"
-          band:
-        - time: "00.00"
-          band:
-        - time: "00.30"
-          band:
-
 - day: VEN 16
-  after:
-   - name: "+ The Bucket Butchers (street drumming itinerante)"
-     band: The Bucket Butchers
   stages:
     - name: Portichetto
       schedule:
@@ -95,8 +56,6 @@
           band: RENZO E I TAFFERUGLI
         - time: "18.45"
           band: ALL BUT FACE
-        - time: "19.00"
-          band:
         - time: "19.30"
           band: DELATES
         - time: "20.00"
@@ -110,22 +69,20 @@
         - time: "22.00"
           band:
         - time: "22.30"
-          band: RAMBO
+          band: THE RAMBO
         - time: "23.00"
           band:
         - time: "23.30"
           band: THE KOCKA MOW MOW'S
         - time: "00.00"
           band:
-        - time: "00.30"
-          band:
+        - time: "01.00"
+          band: UNI NOISE AFTERSHOW DJSET
     - name: Main Stage
       schedule:
         - time: "18.00"
           band:
         - time: "18.45"
-          band:
-        - time: "19.00"
           band:
         - time: "19.30"
           band:
@@ -138,7 +95,7 @@
         - time: "21.30"
           band:
         - time: "22.00"
-          band: WAH'77
+          band: WAH '77
         - time: "22.30"
           band:
         - time: "23.00"
@@ -147,16 +104,14 @@
           band:
         - time: "00.00"
           band: BABBUTZI ORKESTAR
-        - time: "00.30"
+        - time: "01.00"
           band:
     - name: Boschetto
       schedule:
         - time: "18.00"
           band:
         - time: "18.45"
-          band:
-        - time: "19.00"
-          band:
+          band: Ale Vaghi
         - time: "19.30"
           band:
         - time: "20.00"
@@ -177,24 +132,17 @@
           band:
         - time: "00.00"
           band: PINZA+LELE
-        - time: "00.30"
+        - time: "01.00"
           band: SONS OF ROBOTS
 
 - day: SAB 17
-  after:
-   - name: "+ Laboratorio di giocoleria per ragazzi e bambini alle ore 16 nel prato"
-   - name: "+ Laboratorio di acrobatica a coppie per ragazzi e adulti alle ore 18 nel prato"
-   - name: "+ The Bucket Butchers (street drumming itinerante)"
-     band: The Bucket Butchers
   stages:
     - name: Portichetto
       schedule:
+        - time: "18.00"
+          band: ANGOLI ACUSTICI
         - time: "18.45"
           band: BLUE FREEDOM
-        - time: "19.00"
-          band:
-        - time: "19.20"
-          band:
         - time: "19.30"
           band: KILLER4
         - time: "20.00"
@@ -206,7 +154,7 @@
         - time: "21.30"
           band: KRANG
         - time: "22.00"
-          band: TELEMACHOS TELEGRAPH
+          band:
         - time: "22.30"
           band: CELLAMARE
         - time: "23.00"
@@ -215,16 +163,14 @@
           band: TUBAX
         - time: "00.00"
           band:
-        - time: "00.30"
-          band:
+        - time: "01.00"
+          band: UNI NOISE AFTERSHOW DJSET
     - name: Main Stage
       schedule:
+        - time: "18.00"
+          band:
         - time: "18.45"
           band:
-        - time: "19.00"
-          band:
-        - time: "19.20"
-          band: ANGOLI ACUSTICI
         - time: "19.30"
           band:
         - time: "20.00"
@@ -236,7 +182,7 @@
         - time: "21.30"
           band:
         - time: "22.00"
-          band:
+          band: TELEMACHOS TELEGRAPH
         - time: "22.30"
           band:
         - time: "23.00"
@@ -245,20 +191,18 @@
           band:
         - time: "00.00"
           band: LN RIPLEY SOUNDSYSTEM
-        - time: "00.30"
+        - time: "01.00"
           band:
     - name: Boschetto
       schedule:
+        - time: "18.00"
+          band:
         - time: "18.45"
           band: LUCA ISIDORI
-        - time: "19.00"
-          band:
-        - time: "19.20"
-          band:
         - time: "19.30"
           band: PINO L'ABBADESSA & ANGELO CONTINI
         - time: "20.00"
-          band: MARCIDO MARCIDORJS
+          band: MARCIDO MARCIDORJS E FAMOSA MIMOSA
         - time: "20.30"
           band:
         - time: "21.00"
@@ -266,7 +210,7 @@
         - time: "21.30"
           band:
         - time: "22.00"
-          band: BOP IN TROUBLE UNINOISE
+          band: BOP IN TROUBLE
         - time: "22.30"
           band:
         - time: "23.00"
@@ -275,15 +219,9 @@
           band:
         - time: "00.00"
           band:
-        - time: "00.30"
+        - time: "01.00"
           band: IL LEPROTTO
-
 - day: DOM 18
-  after:
-   - name: "+ Laboratorio di giocoleria per ragazzi e bambini alle ore 16 nel prato"
-   - name: "+ Laboratorio di acrobatica a coppie per ragazzi e adulti alle ore 18 nel prato"
-   - name: "+ The Bucket Butchers (street drumming itinerante)"
-     band: The Bucket Butchers
   stages:
     - name: Portichetto
       schedule:
@@ -291,8 +229,6 @@
           band: SANTAMADDALENA
         - time: "18.45"
           band: UNSYLENCE
-        - time: "19.00"
-          band:
         - time: "19.30"
           band: MY DEAD IDOLS
         - time: "20.00"
@@ -312,14 +248,12 @@
         - time: "23.30"
           band: OTTONE PESANTE
         - time: "00.00"
-          band:
+          band: UNI NOISE AFTERSHOW DJSET
     - name: Main Stage
       schedule:
         - time: "18.00"
           band:
         - time: "18.45"
-          band: UNSYLENCE
-        - time: "19.00"
           band:
         - time: "19.30"
           band:
@@ -346,8 +280,6 @@
         - time: "18.00"
           band: TINCAN
         - time: "18.45"
-          band: UNSYLENCE
-        - time: "19.00"
           band:
         - time: "19.30"
           band: SUNWISE SOUND FAMILY

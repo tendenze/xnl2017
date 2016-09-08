@@ -764,13 +764,13 @@ body.fluid {
   display: inline-block;
 }
 .agenda-container .day.color-0 {
-  color: #83b6b1;
+  color: #b2bdff;
 }
 .agenda-container .day.color-1 {
-  color: #f0f0f0;
+  color: #a9ffb5;
 }
 .agenda-container .day.color-2 {
-  color: #f8b219;
+  color: #d7eef4;
 }
 .agenda-container .map {
   margin: 0 auto;
@@ -816,10 +816,10 @@ body.fluid {
   width: 60px;
 }
 .agenda-container .schedule th.stage:nth-child(odd) {
-  background-color: #f8b219;
+  background-color: #182259;
 }
 .agenda-container .schedule th.stage:nth-child(even) {
-  background-color: #83b6b1;
+  background-color: #b2bdff;
 }
 .agenda-container .schedule tr:nth-child(odd) {
   background-color: rgba(193, 193, 192, 0.5);
@@ -832,7 +832,7 @@ body.fluid {
   padding: 0 14px;
 }
 .agenda-container .schedule td.band.link a {
-  color: #3d3d3f
+  color: #3d3d3f;
 }
 .agenda-container .schedule td.book,
 .agenda-container .schedule td.book.link a {
@@ -855,15 +855,15 @@ body.fluid {
 }
 .agenda-container .schedule tfoot .after.color-0 td,
 .agenda-container .schedule tfoot .after.color-0 td.link a {
-  color: #83b6b1;
+  color: #b2bdff;
 }
 .agenda-container .schedule tfoot .after.color-1 td,
 .agenda-container .schedule tfoot .after.color-1 td.link a {
-  color: #f0f0f0;
+  color: #a9ffb5;
 }
 .agenda-container .schedule tfoot .after.color-2 td,
 .agenda-container .schedule tfoot .after.color-2 td.link a {
-  color: #f8b219;
+  color: #d7eef4;
 }
 .agenda-container .return.link {
   margin-top: 40px;
@@ -872,15 +872,15 @@ body.fluid {
 .agenda-container .return.link a {
   font-family: big-noodle, Arial, sans-serif;
   font-size: 30px;
-  color: #83b6b1;
+  color: #182259;
   padding: 3px 5px;
-  border: 3px solid #83b6b1;
+  border: 3px solid #182259;
   border-radius: 3px;
 }
 .agenda-container .return.link a:hover {
   text-decoration: none;
-  background-color: #83b6b1;
-  color: #f0f0f0;
+  background-color: #182259;
+  color: #b2bdff;
 }
 @media screen and (min-width: 992px) {
   .agenda-container .schedule td.band.link:hover,
@@ -918,10 +918,10 @@ body.fluid {
     height: 30px;
   }
   .agenda-container .schedule th.stage.odd {
-    background-color: #f8b219;
+    background-color: #182259;
   }
   .agenda-container .schedule th.stage.even {
-    background-color: #83b6b1;
+    background-color: #b2bdff;
   }
   .agenda-container .map .day span {
     font-size: 50px;
