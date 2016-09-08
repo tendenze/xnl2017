@@ -26,7 +26,7 @@ body {
   color: #182259;
 }
 body.fluid {
-  background: #0e1543;
+  background: #0e1543 url("../img/background-bands.jpg") repeat-x fixed center top / cover;
   padding-top: 0;
 }
 
@@ -522,7 +522,7 @@ body.fluid {
 }
 
 .band-info.modal-content {
-  background: #0e1543;
+  background: #0e1543 url("../img/background-bands.jpg") repeat-x fixed center top / cover;
 }
 
 .modal-container {
