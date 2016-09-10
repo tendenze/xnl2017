@@ -84,14 +84,6 @@ title: Programma
       </div>
     </div>
     <% end %>
-    <% bookdata = get_data("book", "takeabookaround") %>
-    <% book_id = bookdata["title"].gsub(/[^a-zA-Z1-9]/,"").downcase %>
-    <div class="modal fade" id='<%= "#{book_id}-modal" %>' tabindex="-1" role="dialog" aria-labelledby='<%= "#{book_id}" %>' aria-hidden="true">
-      <div class="modal-dialog modal-lg">
-        <div class="band-info modal-content">
-        </div>
-      </div>
-    </div>
 
     <!-- <div id="map" class="map">
       <div class="day color-0"><span>Area Festival</span></div>
