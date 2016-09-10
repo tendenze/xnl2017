@@ -1,11 +1,33 @@
 <div id="footer">
-  <% link_to "http://www.comune.piacenza.it/", :class => "comunepc", :target => "_blank"  do %>
-    <%= image_tag "footer/footer-comune-pc.png", :class => "img-responsive" %>
-  <% end %>
-  <div class="leto">
-    <%= image_tag "footer/footer-leto.png", :class => "img-responsive" %>
+  <div class="promoters">
+    <% link_to "http://www.comune.piacenza.it/", :class => "comunepc", :target => "_blank" , :rel => "noopener"  do %>
+      <%= image_tag "footer/footer-comune-pc.png", :class => "img-responsive" %>
+    <% end %>
+    <div class="leto">
+      <%= image_tag "footer/footer-leto.png", :class => "img-responsive" %>
+    </div>
+    <% link_to "https://www.facebook.com/crowseventi", :class => "crows", :target => "_blank", :rel => "noopener"  do %>
+      <%= image_tag "footer/footer-crows.png", :class => "img-responsive" %>
+    <% end %>
+    <% link_to "", :class => "emiliaromagna", :target => "_blank", :rel => "noopener"  do %>
+      <%= image_tag "footer/footer-regione.png", :class => "img-responsive" %>
+    <% end %>
   </div>
-  <% link_to "https://www.facebook.com/crowseventi", :class => "crows", :target => "_blank"  do %>
-    <%= image_tag "footer/footer-crows.png", :class => "img-responsive" %>
-  <% end %>
+  <div class="sponsors">
+    <% link_to "", :class => "sp", :target => "_blank", :rel => "noopener"  do %>
+      <%= image_tag "footer/footer-sponsor1.png", :class => "img-responsive" %>
+    <% end %>
+    <% link_to "", :class => "sp", :target => "_blank", :rel => "noopener"  do %>
+      <%= image_tag "footer/footer-sponsor2.png", :class => "img-responsive" %>
+    <% end %>
+    <% link_to "", :class => "sp", :target => "_blank", :rel => "noopener"  do %>
+      <%= image_tag "footer/footer-sponsor3.png", :class => "img-responsive" %>
+    <% end %>
+    <% link_to "", :class => "sp", :target => "_blank", :rel => "noopener"  do %>
+      <%= image_tag "footer/footer-sponsor4.png", :class => "img-responsive" %>
+    <% end %>
+    <% link_to "", :class => "sp", :target => "_blank", :rel => "noopener"  do %>
+      <%= image_tag "footer/footer-sponsor5.png", :class => "img-responsive" %>
+    <% end %>
+  </div>
 </div>

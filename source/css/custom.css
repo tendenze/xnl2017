@@ -271,8 +271,22 @@ body.fluid {
   display: inline-block;
   max-width: 75px;
 }
+#footer .emiliaromagna {
+  display: inline-block;
+  max-width: 260px;
+}
+#footer .sponsors .sp:first-child {
+  max-width: 110px;
+}
+#footer .sponsors .sp {
+  max-width: 64px;
+}
+#footer .sponsors .sp+.sp {
+  margin-left: 5px;
+}
 @media screen and (max-width: 600px) {
-  #footer a {
+  #footer .comunepc,
+  #footer .sp:first-child {
     display: block;
     margin: 0 auto;
   }
