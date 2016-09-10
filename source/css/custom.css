@@ -691,7 +691,7 @@ body.fluid {
   max-width: 164px;
 }
 .expo-container .exhibitor .image img {
-  border: 2px solid #3d3d3f;
+  border-radius: 20px;
 }
 .expo-container .exhibitor .text {
   margin-top: 5px;
