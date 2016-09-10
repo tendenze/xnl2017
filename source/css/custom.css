@@ -385,6 +385,16 @@ body.fluid {
   font-size: 28px;
   text-align: center;
 }
+.festival-container h3 {
+  font-family: big-noodle, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1;
+  margin-bottom: 3px;
+}
+.festival-container a {
+    color: #182259;
+    text-decoration: underline;
+}
 .festival-container .org {
   margin-top: 55px;
 }
