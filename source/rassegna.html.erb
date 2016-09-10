@@ -3,30 +3,21 @@ title: Rassegna Stampa
 ---
 
 <div id="press" class="row">
-  <div class="press-container col-xs-12 col-sm-12 col-md-12">
-    <div class="heading"><%= current_page.data.title %></div>
-    <div class="articles current row">
-      <% data.rassegna.attuale.reverse_each do |r| %>
-        <div class="article col-xs-12 col-sm-12 col-md-12">
+  <div class="press-container">
+    <% data.rassegna.each do |r| %>
+    <div class="heading"><%= r.title %></div>
+    <div class="articles col-xs-12 col-sm-12 col-md-12">
+      <% articles = r.reverse ? r.press.reverse : r.press %>
+      <% articles.each do |a| %>
+        <div class="article">
           <div class="image">
-            <% link_to r.pdf, :target => "_blank" do %>
-              <%= image_tag r.image, :class => "img-responsive" %>
+            <% link_to a.link, :target => "_blank", :rel => "noopener" do %>
+              <%= image_tag a.image, :class => "img-responsive" %>
             <% end %>
           </div>
         </div>
       <% end %>
     </div>
-    <div class="articles past row">
-      <div class="heading past">Storico</div>
-      <% data.rassegna.storico.each do |r| %>
-        <div class="article col-xs-12 col-sm-12 col-md-12">
-          <div class="image">
-            <% link_to r.pdf, :target => "_blank" do %>
-              <%= image_tag r.image, :class => "img-responsive" %>
-            <% end %>
-          </div>
-        </div>
-      <% end %>
-    </div>
+    <% end %>
   </div>
 </div>

@@ -741,8 +741,8 @@ body.fluid {
   }
 }
 
-.press-container .heading.past {
-  margin-top: 50px;
+.press-container .articles {
+  margin-bottom: 50px;
 }
 .press-container .article {
   margin-top: 35px;

@@ -1,31 +1,47 @@
-attuale:
-  - image: rassegna/01.jpg
-    pdf: pdf/rassegna/01.pdf
-  - image: rassegna/02.jpg
-    pdf: pdf/rassegna/02.pdf
-  - image: rassegna/03.jpg
-    pdf: pdf/rassegna/03.pdf
-  - image: rassegna/04.jpg
-    pdf: pdf/rassegna/04.pdf
-  - image: rassegna/uochitoki.jpg
-    pdf: pdf/rassegna/16-settembre-uochitoki.pdf
-  - image: rassegna/marcido.jpg
-    pdf: pdf/rassegna/marcido.pdf
-  - image: rassegna/venerdi18.jpg
-    pdf: pdf/rassegna/venerdi18.pdf
-  - image: rassegna/150919.jpg
-    pdf: pdf/rassegna/150919piacenza_42.pdf
-  - image: rassegna/09.jpg
-    pdf: pdf/rassegna/09.pdf
-  - image: rassegna/10.jpg
-    pdf: pdf/rassegna/10.pdf
-  - image: rassegna/11.jpg
-    pdf: pdf/rassegna/11.pdf
-  - image: rassegna/12.jpg
-    pdf: pdf/rassegna/12.pdf
-
-storico:
-  - image: rassegna/storico-01.jpg
-    pdf: pdf/rassegna/storico-01.pdf
-  - image: rassegna/storico-02.jpg
-    pdf: pdf/rassegna/storico-02.pdf
+- title: Rassegna Stampa 2016
+  reverse: true
+  press:
+    - image: rassegna/2016/01.jpg
+      link: "http://www.piacenzasera.it/musica/tendenze-festival-si-fa-4-giovedi-15-debutta-edizione-2016.jspurl?IdC=1146&IdS=1146&tipo_padre=0&tipo_cliccato=0&id_prodotto=71309&css="
+    - image: rassegna/2016/02.jpg
+      link: "http://www.piacenzamusicpride.com/articoli/4-giorni-3-palchi-60-live-tutti-i-numeri-di-tendenze-2016"
+    - image: rassegna/2016/03.jpg
+      link: "http://www.piacenza24.eu/Eventi%20e%20Spettacoli/74099-Oltre+60+proposte+in+quattro+giorni+e+tre+stage%2C+ecco+Tendenze+2016+.html"
+    - image: rassegna/2016/04.jpg
+      link: download/rassegna/2016/04.jpg
+    - image: rassegna/2016/05.jpg
+      link: download/rassegna/2016/05.pdf
+- title: Rassegna Stampa 2015
+  reverse: true
+  press:
+    - image: rassegna/2015/01.jpg
+      link: download/rassegna/2015/01.pdf
+    - image: rassegna/2015/02.jpg
+      link: download/rassegna/2015/02.pdf
+    - image: rassegna/2015/03.jpg
+      link: download/rassegna/2015/03.pdf
+    - image: rassegna/2015/04.jpg
+      link: download/rassegna/2015/04.pdf
+    - image: rassegna/2015/uochitoki.jpg
+      link: download/rassegna/2015/16-settembre-uochitoki.pdf
+    - image: rassegna/2015/marcido.jpg
+      link: download/rassegna/2015/marcido.pdf
+    - image: rassegna/2015/venerdi18.jpg
+      link: download/rassegna/2015/venerdi18.pdf
+    - image: rassegna/2015/150919.jpg
+      link: download/rassegna/2015/150919piacenza_42.pdf
+    - image: rassegna/2015/09.jpg
+      link: download/rassegna/2015/09.pdf
+    - image: rassegna/2015/10.jpg
+      link: download/rassegna/2015/10.pdf
+    - image: rassegna/2015/11.jpg
+      link: download/rassegna/2015/11.pdf
+    - image: rassegna/2015/12.jpg
+      link: download/rassegna/2015/12.pdf
+- title: Storico
+  reverse: false
+  press:
+    - image: rassegna/storico/storico-01.jpg
+      link: download/rassegna/storico/storico-01.pdf
+    - image: rassegna/storico/storico-02.jpg
+      link: download/rassegna/storico/storico-02.pdf
