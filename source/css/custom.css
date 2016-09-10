@@ -822,10 +822,10 @@ body.fluid {
   background-color: #b2bdff;
 }
 .agenda-container .schedule tr:nth-child(odd) {
-  background-color: rgba(193, 193, 192, 0.5);
+  background-color: rgba(168, 197, 205, 0.8);
 }
 .agenda-container .schedule tr:nth-child(even) {
-  background-color: rgba(158, 158, 157, 0.5);
+  background-color: rgba(150, 179, 187, 0.8);
 }
 .agenda-container .schedule td {
   color: #3d3d3f;
