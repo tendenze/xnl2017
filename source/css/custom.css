@@ -718,14 +718,15 @@ body.fluid {
 }
 .extra-container .exhibitor {
   margin-top: 32px;
-  color: #3d3d3f;
+  color: #182259;
 }
 .extra-container .exhibitor .title {
   font-family: big-noodle, Arial, sans-serif;
   font-size: 28px;
   line-height: 1;
   text-align: center;
-  background-color: rgba(131, 182, 177, 0.8);
+  background-color: rgba(24, 34, 89, 0.8);
+  color: #f0f0f0;
   border-radius: 4px;
   padding: 3px 20px;
   margin-bottom: 13px;
@@ -745,7 +746,8 @@ body.fluid {
   color: #3d3d3f;
 }
 .extra-container .exhibitor .banner {
-  border: 2px solid #3d3d3f;
+  overflow: hidden;
+  border-radius: 20px;
   margin-top: 20px;
 }
 @media screen and (max-width: 767px) {
@@ -973,7 +975,7 @@ body.fluid {
   line-height: 1;
   text-align: center;
   color: #f0f0f0;
-  background-color: rgba(61, 61, 63, 0.8);
+  background-color: rgba(24, 34, 89, 0.8);
   border-radius: 4px;
   padding: 3px 20px;
   margin-bottom: 13px;
