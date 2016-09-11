@@ -78,12 +78,8 @@ configure :build do
 end
 
 page "/bands/*", :layout => "fluid"
-#page "/book/*", :layout => "fluid"
 # Disable layout for modal band pages
 page "/bandmodals/*", :layout => false
-#page "/bookmodal/*", :layout => false
-
-# ignore "band.html.erb"
 
 ready do
   # Generate full-screen band pages and modal pages
@@ -102,16 +98,6 @@ ready do
   end
 
   gen_band_pages(data.bands.main, 0)
-  # gen_band_pages(data.bands.hiphop, data.bands.main.length)
-
-  # bookdata = get_data("book", "takeabookaround")
-  # book_name_id = bookdata["title"].gsub(/[^a-zA-Z1-9]/,"").downcase
-  # proxy "book/#{book_name_id}.html", "book.html",
-  #   :locals => { :is_modal => false, :data => bookdata, :color_index => 0 },
-  #   :ignore => true
-  # proxy "bookmodal/#{book_name_id}.html", "book.html",
-  #   :locals => { :is_modal => true, :data => bookdata, :color_index => 0 },
-  #   :ignore => true
 
   # Generate news pages
   get_md_files("data/news").reverse_each do |name|
