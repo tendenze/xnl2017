@@ -14,20 +14,10 @@
     <% end %>
   </div>
   <div class="sponsors">
-    <% link_to "", :class => "sp", :target => "_blank", :rel => "noopener"  do %>
-      <%= image_tag "footer/footer-sponsor1.png", :class => "img-responsive" %>
-    <% end %>
-    <% link_to "", :class => "sp", :target => "_blank", :rel => "noopener"  do %>
-      <%= image_tag "footer/footer-sponsor2.png", :class => "img-responsive" %>
-    <% end %>
-    <% link_to "", :class => "sp", :target => "_blank", :rel => "noopener"  do %>
-      <%= image_tag "footer/footer-sponsor3.png", :class => "img-responsive" %>
-    <% end %>
-    <% link_to "", :class => "sp", :target => "_blank", :rel => "noopener"  do %>
-      <%= image_tag "footer/footer-sponsor4.png", :class => "img-responsive" %>
-    <% end %>
-    <% link_to "", :class => "sp", :target => "_blank", :rel => "noopener"  do %>
-      <%= image_tag "footer/footer-sponsor5.png", :class => "img-responsive" %>
+    <% data.logos.sponsors.each do |s| %>
+      <% link_to s.link, :class => "sp", :target => "_blank", :rel => "noopener"  do %>
+        <%= image_tag s.image_footer, :class => "img-responsive" %>
+      <% end %>
     <% end %>
   </div>
 </div>

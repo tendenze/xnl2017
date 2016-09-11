@@ -1,18 +1,23 @@
 sponsors:
   - name: fondazione
     image: logos/s-01.png
+    image_footer: footer/footer-sponsor1.png
     link: http://www.lafondazione.com/
   - name: iren
     image: logos/s-02.png
+    image_footer: footer/footer-sponsor2.png
     link: http://www.gruppoiren.it/
   - name: coop
     image: logos/s-03.png
+    image_footer: footer/footer-sponsor3.png
     link: http://www.e-coop.it/web/alleanza3-0/chi_siamo
   - name: abi-coop
     image: logos/s-04.png
+    image_footer: footer/footer-sponsor4.png
     link: http://www.abicoop.it/
   - name: bulla sport
     image: logos/s-05.png
+    image_footer: footer/footer-sponsor5.png
     link: http://www.bullasport.it/index.php
 
 collaborators:
