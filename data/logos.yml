@@ -1,19 +1,19 @@
 sponsors:
   - name: fondazione
     image: logos/s-01.png
-    link:
+    link: http://www.lafondazione.com/
   - name: iren
     image: logos/s-02.png
-    link:
+    link: http://www.gruppoiren.it/
   - name: coop
     image: logos/s-03.png
-    link:
+    link: http://www.e-coop.it/web/alleanza3-0/chi_siamo
   - name: abi-coop
     image: logos/s-04.png
-    link:
-  - name: bulla
+    link: http://www.abicoop.it/
+  - name: bulla sport
     image: logos/s-05.png
-    link:
+    link: http://www.bullasport.it/index.php
 
 collaborators:
   - name: arci
@@ -39,28 +39,28 @@ collaborators:
     link: https://www.facebook.com/orzorockmusic
   - name: elettroshoking
     image: logos/c-08.png
-    link:
+    link: https://www.facebook.com/Electroshocking
   - name: uninoise
     image: logos/c-09.png
-    link:
+    link: https://www.facebook.com/uninoise/
   - name: soundround
     image: logos/c-10.png
     link:
   - name: spaziodue
     image: logos/c-11.png
-    link:
+    link: http://www.comune.piacenza.it/spazio2
   - name: bus1
     image: logos/c-12.png
-    link:
+    link: http://www.festivalbeat.net/
   - name: elfo
     image: logos/c-13.png
-    link:
+    link: http://www.elfostudio.com/
   - name: gedinfo
     image: logos/c-14.png
-    link:
+    link: http://www.gedinfo.it/
   - name: bangbang
     image: logos/c-15.png
-    link:
+    link: http://bangbangradio.it/
   - name: effetre
     image: logos/c-16.png
-    link:
+    link: https://www.facebook.com/fotosposi4you
