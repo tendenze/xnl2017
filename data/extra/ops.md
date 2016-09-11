@@ -1,8 +1,8 @@
 ---
-name: 03-ops
-title: 'CHILL-OUT ZONE BY "OPS"'
+name: 08-ops
+title: 'PROGETTO OPS'
 banner: extra/ops.jpg
-link: https://www.facebook.com/profile.php?id=100009122744268&ref=ts&fref=ts
 ---
 
-Altra presenza cruciale per fare di Tendenze un'occasione di crescita sociale e culturale all'insegna della "sostenibilità" del divertimento sarà quella dell'unità di strada OPS (Operatori Per Strada) con un percorso dedicato alla tutela della salute ed alla informazione e prevenzione sull'abuso di sostanze alcoliche e stupefacenti. Ecco dunque un’area chill-out, gestita da operatori formati, dove rilassarsi prima del ritorno a casa o in un qualsiasi momento della serata. Lo sarà anche allestito con attività di animazione e creative: fogli A3 e A4, pannelli in legno, tempere, acquarelli, pennarelli, pennelli, pastelli a cera, bombolette, videocamera, videoproiettore e supporto fotografico. Sarà inoltre presente un banchetto dove si potrà fruire di generi di conforto analcolici e gratuiti, materiali informativi inerenti al mondo delle sostanze psicoattive e alla prevenzione dei diversi comportamenti a rischio, profilattici ed etilometro.
+Ritorna l'immancabile area chill-out a cura degli Operatori Per Strada del Progetto OPS, un'occasione di crescita sociale e culturale all'insegna del divertimento sicuro. L'area, gestita da operatori formati, consentirà di rilassarsi prima del ritorno a casa o in qualsiasi momento della serata. Tra generi di conforto analcolici gratuiti e materiali informativi sui comportamenti a rischio, profilattici ed etilometro anonimo e gratuito, saranno anche allestite attività di animazione e creative con fogli, pannelli, colori, videocamera, videoproiettore e supporto fotografico. 
+
