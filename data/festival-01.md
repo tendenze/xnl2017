@@ -5,7 +5,7 @@
 Oltre 60 live-band, dj-set e live-set da mezza Italia su tre stage in rappresentanza di tutti i generi musicali, zona expo con associazioni, artigianato, vintage ed handmade, artisti, etichette, distro, installazioni e interazione. Due punti bar con analcolici, birra e cocktail, cinque postazioni street food con proposte golose e di qualità per chi ama il vegano, la carne, la pizza, le piadine e i fritti.
 
 ### FUORI I NOMI
-Gli ospiti più illustri chiamati a calcare il main stage in questa edizione si chiamano LANDLORD (giovedì 15), **BABBUTZI ORKESTAR** (venerdì 16), **LN RIPLEY** (sabato 17) e **MORKOBOT** (domenica 18). Poi eccellenze e nuove leve underground, nostrane o meno, ma anche tante novità scintillanti al boschetto, regno dell'elettronica e pure di un aperitivo teatral-musicale in crescendo nelle primissime ore di sabato 18.
+Gli ospiti più illustri chiamati a calcare il main stage in questa edizione si chiamano **LANDLORD** (giovedì 15), **BABBUTZI ORKESTAR** (venerdì 16), **LN RIPLEY** (sabato 17) e **MORKOBOT** (domenica 18). Poi eccellenze e nuove leve underground, nostrane o meno, ma anche tante novità scintillanti al boschetto, regno dell'elettronica e pure di un aperitivo teatral-musicale in crescendo nelle primissime ore di sabato 18.
 
 Proviamo a inoculare nella vostra memoria qualche ulteriore traccia segnalando alcune "chicche" dai "colori" molto diversi. **Nobody Cried for Dinosaurs** (giovedì 15). **Makhno**, **The Rambo**, **The Kocka Mow Mow's**, **Tough** (venerdì 16). **Arbos**, **Krang**, **Cellamare**, **Tubax**, **Telemachos Telegraph** e **Mattia Cigalini** coi **Techfood** (sabato 17). **Solki**, **Ermes**, **Ottone Pesante**, **Sondag**, **Sdang!** (domenica 18). Se manchi anche solo un giorno sei fregat* :-)
 
