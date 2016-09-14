@@ -2,7 +2,7 @@
 name: APEX PREDATOR EFFECTS
 title: PEDALI ARTIGIANALI
 thumbnail: expo/apex.jpg
-link: www.apexpredatoreffects.com
+link: http://www.apexpredatoreffects.com
 mail: https://www.facebook.com/ap3xpr3dator3ff3ct
 ---
 

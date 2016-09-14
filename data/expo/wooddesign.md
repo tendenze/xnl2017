@@ -2,7 +2,7 @@
 name: Wood Design
 title: WOOD DESIGN
 thumbnail: expo/wooddesign.jpg
-link: www.woodstornituralegno.com
+link: http://www.woodstornituralegno.com
 mail:
 ---
 

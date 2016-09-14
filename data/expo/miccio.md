@@ -1,9 +1,9 @@
 ---
-name: Renato de Miccio
+name: Renato de Micco
 title: Bandane artigianali
 thumbnail: expo/miccio.jpg
-link: 
-mail: 
+link:
+mail:
 ---
 
 
@@ -11,7 +11,7 @@ mail:
 
 
 
- 
+
 
 
 

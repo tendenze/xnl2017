@@ -2,8 +2,8 @@
 name: VIAGGIATRICI CURIOSE
 title: BIGIOTTERIA HANDMADE
 thumbnail: expo/viaggiatrici.jpg
-link: www.facebook.com/viaggiatricicuriose
-mail: 
+link: http://www.facebook.com/viaggiatricicuriose
+mail:
 ---
 
 "Si dice che viaggiare renda creativi….sono forse stati i nostri tanti viaggi attorno al mondo a stimolare la curiosità e la voglia di sperimentare…
@@ -16,7 +16,7 @@ Se state passeggiando nelle vie di un mercatino e vedete due valigie e un mappam
 
 
 
- 
+
 
 
 
