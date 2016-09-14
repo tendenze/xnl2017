@@ -6,7 +6,7 @@ banner: extra/spazio2.jpg
 
 In collaborazione con i ragazzi di Spazio2, un "non palco" dalla vocazione performativa allestito nella zona centrale della sezione "expo". Programma in continuo aggiornamento!
 
-* Giovedi dalle 15 alle 18: "Maree" laboratorio teatrale aperto promosso dal GUS, con l'attrice e performer Eleonora Marzani. Info e iscrizioni: <a href="mailto:eleonora.mailbox@gmail.com">eleonora.mailbox@gmail.com</a>
+* Giovedi dalle 15 alle 18: "Maree" laboratorio teatrale aperto promosso dal GUS, Gruppo Umana Solidarietà Onlus, diretto da Federica Ombrato e Eleonora Marzani. Info e iscrizioni: <a href="mailto:eleonora.mailbox@gmail.com">eleonora.mailbox@gmail.com</a>
 * Giovedì alle 22.30: "Sette storie per i tuoi occhi", performance di letture poetiche, musica e immagini con l'autore Simone Santi, il chitarrista Andrea Rizzi e i quadri della pittrice Giovanna Esposito
 * Venerdì alle 18: incontro-dibattito con Soundreef, l'alternativa alla SIAE; partecipano musicisti, editori, organizzatori di eventi e addetti ai lavori
 
