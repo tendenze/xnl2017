@@ -99,14 +99,19 @@ ready do
 
   gen_band_pages(data.bands.main, 0)
 
-  # Generate news pages
-  get_md_files("data/news").reverse_each do |name|
-    news_data = get_data("news", name)
-    news_data["id"] = name
-    proxy "news/#{name}.html", "news.html",
-      :locals => { :data => news_data },
-      :ignore => true
+  def gen_news_pages(directory, prefix)
+    # Generate news pages
+    get_md_files("data/#{directory}/#{prefix}").reverse_each do |name|
+      news_data = get_data("#{directory}/#{prefix}", name)
+      news_data["id"] = name
+      proxy "news/#{prefix}/#{name}.html", "news.html",
+        :locals => { :data => news_data, :prefix => prefix },
+        :ignore => true
+    end
   end
+
+  gen_news_pages("news", "2016")
+  gen_news_pages("news", "2015")
 end
 
 require 'yaml'
