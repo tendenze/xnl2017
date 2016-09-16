@@ -696,6 +696,10 @@ body.fluid {
 .expo-container .exhibitor .text {
   margin-top: 5px;
 }
+.expo-container .exhibitor .text a {
+    color: #182259;
+    text-decoration: underline;
+}
 @media screen and (max-width: 767px) {
   .expo-container .exhibitor .name {
     text-align: center;
