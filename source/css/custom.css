@@ -215,22 +215,21 @@ body.fluid {
 }
 
 #footer {
-  background-color: #c1e3f0;
+  background-color: #fff;
   margin-top: 20px;
   margin-left: -10px;
   margin-right: -10px;
   padding-bottom: 3px;
   text-align: center;
-
 }
 #footer::before {
   content: " ";
   display: block;
   width: 100%;
-  background: #d7eef4 url("../img/footer/waves.svg") no-repeat;
-  background-size: cover;
-  background-position: center center;
-  padding-top: 14.16%;
+  height: 30px;
+  background: transparent url("../img/footer/xnlfestival.png") repeat-x;
+  background-size: contain;
+  margin-bottom: 10px;
 }
 #footer img,
 #footer a {
@@ -241,16 +240,16 @@ body.fluid {
 }
 #footer .leto {
   display: inline-block;
-  max-width: 128px;
+  max-width: 54px;
   margin-left: 10px;
 }
 #footer .crows {
   display: inline-block;
-  max-width: 75px;
+  max-width: 150px;
 }
-#footer .emiliaromagna {
+#footer .fondazione {
   display: inline-block;
-  max-width: 260px;
+  max-width: 110px;
 }
 #footer .sponsors .sp:first-child {
   max-width: 110px;

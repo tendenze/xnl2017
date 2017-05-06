@@ -9,15 +9,8 @@
     <% link_to "https://www.facebook.com/crowseventi", :class => "crows", :target => "_blank", :rel => "noopener"  do %>
       <%= image_tag "footer/footer-crows.png", :class => "img-responsive" %>
     <% end %>
-    <% link_to "", :class => "emiliaromagna", :target => "_blank", :rel => "noopener"  do %>
-      <%= image_tag "footer/footer-regione.png", :class => "img-responsive" %>
-    <% end %>
-  </div>
-  <div class="sponsors">
-    <% data.logos.sponsors.each do |s| %>
-      <% link_to s.link, :class => "sp", :target => "_blank", :rel => "noopener"  do %>
-        <%= image_tag s.image_footer, :class => "img-responsive" %>
-      <% end %>
+    <% link_to "http://www.lafondazione.com/", :class => "fondazione", :target => "_blank", :rel => "noopener"  do %>
+      <%= image_tag "footer/footer-sponsor1.png", :class => "img-responsive" %>
     <% end %>
   </div>
 </div>
