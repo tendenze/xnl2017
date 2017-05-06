@@ -629,47 +629,6 @@ body.fluid {
   text-decoration: underline;
 }
 
-.expo-container {
-  text-align: justify;
-}
-.expo-container .intro {
-  margin-top: 15px;
-}
-.expo-container .exhibitor {
-  margin-top: 35px;
-}
-.expo-container .exhibitor .name {
-  font-family: big-noodle, Arial, sans-serif;
-  font-size: 28px;
-  line-height: 1;
-}
-.expo-container .exhibitor .image {
-  padding-top: 4px;
-  max-width: 164px;
-}
-.expo-container .exhibitor .image img {
-  border-radius: 20px;
-}
-.expo-container .exhibitor .text {
-  margin-top: 5px;
-}
-.expo-container .exhibitor .text a {
-    color: #182259;
-    text-decoration: underline;
-}
-@media screen and (max-width: 767px) {
-  .expo-container .exhibitor .name {
-    text-align: center;
-  }
-  .expo-container .exhibitor .image {
-    margin-top: 5px;
-    margin: 0 auto;
-  }
-  .expo-container .exhibitor .text {
-    margin-top: 15px;
-  }
-}
-
 .extra-container {
   text-align: justify;
   min-height: 500px;
@@ -679,15 +638,13 @@ body.fluid {
 }
 .extra-container .exhibitor {
   margin-top: 32px;
-  color: #182259;
 }
 .extra-container .exhibitor .title {
-  font-family: big-noodle, Arial, sans-serif;
+  color: #fff;
   font-size: 28px;
   line-height: 1;
   text-align: center;
-  background-color: rgba(24, 34, 89, 0.8);
-  color: #f0f0f0;
+  background-color: #000;
   border-radius: 4px;
   padding: 3px 20px;
   margin-bottom: 13px;
@@ -697,14 +654,13 @@ body.fluid {
   margin-top: -5px;
 }
 .extra-container .exhibitor .description h2 {
-  font-family: big-noodle, Arial, sans-serif;
   font-size: 28px;
   line-height: 1;
   margin-top: 12px;
   margin-bottom: 3px;
 }
 .extra-container .exhibitor .description a {
-  color: #182259;
+  color: #000;
   text-decoration: underline;
 }
 .extra-container .exhibitor .banner {
