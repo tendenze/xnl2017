@@ -18,7 +18,7 @@ body {
   padding-top: 5px;
   font-family: Montserrat, Arial, sans-serif;
   font-size: 14px;
-  color: #182259;
+  color: #000;
 }
 body.fluid {
   background: #0e1543 url("../img/background-bands.jpg") repeat-x fixed center top / cover;
@@ -35,9 +35,11 @@ body.fluid {
 
 .main-content .heading {
   line-height: 1;
-  font-size: 35px;
+  font-size: 25px;
+  font-weight: bold;
   margin-top: 15px;
   text-align: center;
+  text-transform: uppercase;
 }
 
 /* --- HEADER --- */
@@ -275,7 +277,6 @@ body.fluid {
   margin-bottom: 20px;
 }
 .home-links .link {
-  font-family: big-noodle, Arial, sans-serif;
   line-height: 1;
   display: block;
   position: relative;
@@ -306,20 +307,21 @@ body.fluid {
   margin-top: 35px;
 }
 .news-container .news .title {
-  font-family: big-noodle, Arial, sans-serif;
   line-height: 1;
-  font-size: 28px;
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
 }
 .news-container .news .date {
-  font-family: big-noodle, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 13px;
+  font-weight: bold;
 }
 .news-container .news .content {
   text-align: justify;
   margin-top: 5px;
 }
 .news-container .news a {
-  color: #182259;
+  color: #000;
   text-decoration: underline;
 }
 .news-container .news .content ul {
@@ -334,7 +336,6 @@ body.fluid {
   border-radius: 20px;
 }
 .news-container .news .content h3 {
-  font-family: big-noodle, Arial, sans-serif;
   font-size: 16px;
   line-height: 1;
   margin-bottom: 3px;
@@ -371,12 +372,10 @@ body.fluid {
   text-align: left;
 }
 .festival-container h2 {
-  font-family: big-noodle, Arial, sans-serif;
   font-size: 28px;
   text-align: center;
 }
 .festival-container h3 {
-  font-family: big-noodle, Arial, sans-serif;
   font-size: 16px;
   line-height: 1;
   margin-bottom: 3px;
