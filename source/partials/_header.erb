@@ -1,15 +1,15 @@
-<% header_class = current_page.data.main_header ? "big" : "" %>
-<div id="header" class="row <%= header_class %>">
+<div id="header" class="row">
   <div class="banner col-xs-12 col-sm-12 col-md-12">
     <% link_to "/", :class => "home-link" do %>
     <div class="image"></div>
     <% end %>
-    <div class="title">Tendenze Festival <span>2016</span></div>
+    <div class="title">FESTIVAL DI MUSICA ELETTRONICA SPERIMENTALE E CONTEMPORANEA</div>
     <div class="subtitle">
       <ul class="info primary">
-        <li class="text"><span>XXII Edizione</span></li>
-        <li class="text"><span>15-16-17-18 Settembre</span></li>
-        <li class="text"><span>Spazio 4 - Via Manzoni 21 - Piacenza</span></li>
+        <li class="text">2° Edizione</li>
+        <li class="text"><span class="color-red">Gio 18</span></li>
+        <li class="text"><span class="color-green">Ven 19</span></li>
+        <li class="text"><span class="color-blue">Sab 20</span> Maggio</li>
         <li class="icon first hidden-xs hidden-sm">
           <% link_to data.contacts.facebook, :target => "_blank" do %>
             <%= image_tag "fbook-icon.png" %>
@@ -25,17 +25,6 @@
             <%= image_tag "maps-icon.png" %>
           <% end %>
         </li>
-      </ul>
-      <ul class="info secondary">
-        <li class="text"><span>3 stage</span></li>
-        <li class="text"><span>Oltre 60 band</span></li>
-        <li class="text"><span>DJ &amp; live set</span></li>
-        <li class="text"><span>Streetfood &amp; drinks</span></li>
-        <li class="text"><span>3D mapping visual show</span></li>
-        <li class="text"><span>Expo</span></li>
-        <li class="text"><span>Installazioni</span></li>
-        <li class="text"><span>Artigianato</span></li>
-        <li class="text"><span>Free Entry</span></li>
       </ul>
       <ul class="info contacts">
         <li class="icon first hidden-md hidden-lg">
@@ -72,7 +61,6 @@
             <li><%= link_to 'Home', '/' %></li>
             <li><%= link_to 'Line Up', '/lineup.html' %></li>
             <li><%= link_to 'Programma', '/programma.html' %></li>
-            <li><%= link_to 'Expo', '/expo.html' %></li>
             <li><%= link_to 'Extra', '/extra.html' %></li>
             <li><%= link_to 'Foto', '/foto.html' %></li>
             <li><%= link_to 'Il Festival', '/festival.html' %></li>
