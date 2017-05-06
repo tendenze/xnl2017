@@ -887,12 +887,12 @@ body.fluid {
   margin-top: 30px;
 }
 .photos-container .entry .title {
-  font-family: big-noodle, Arial, sans-serif;
-  font-size: 28px;
+  font-size: 20px;
+  font-weight: bold
   line-height: 1;
   text-align: center;
-  color: #f0f0f0;
-  background-color: rgba(24, 34, 89, 0.8);
+  color: #fff;
+  background-color: #000;
   border-radius: 4px;
   padding: 3px 20px;
   margin-bottom: 13px;
@@ -933,8 +933,8 @@ body.fluid {
   padding-right: 6.2%;
 }
 .photos-container .entry .image .date {
-  font-family: big-noodle,Arial,sans-serif;
-  font-size: 30px;
+  font-size: 20px;
+  font-weight: bold;
   line-height: 1;
   width: 100%;
   text-align: center;
