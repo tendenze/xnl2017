@@ -1,303 +1,60 @@
-- day: GIO 15
+- day: GIO 18
   stages:
-    - name: Portichetto
+    - name: ""
       schedule:
-        - time: "19.30"
-          band: ENJOY PENINSULA
-        - time: "20.15"
-          band: NO TNX
-        - time: "21.00"
-          band:
+        - time: "19.00"
+          band: DABASS CREW
+        - time: "20.00"
+          band: VANNI SANTONI - MURO DI CASSE
         - time: "21.30"
-          band: MIKELESS & CLO PASSARO
+          band: TEMPUS FUGIT
         - time: "22.00"
-          band:
-        - time: "22.30"
-          band: SONICATOMIC
+          band: AIMING FOR ENRIKE
         - time: "23.00"
-          band:
-        - time: "23.30"
-          band:
+          band: THE LIPS
         - time: "00.00"
-          band: NOBODY CRIED FOR DINOSAURS
-        - time: "00.30"
-          band:
+          band: BLACKAT CREW
         - time: "01.00"
-          band: DJSET DELLA BUONANOTTE
-    - name: Main Stage
-      schedule:
-        - time: "19.30"
-          band:
-        - time: "20.15"
-          band:
-        - time: "21.00"
-          band: Antonio Ferrari
-        - time: "21.30"
-          band:
-        - time: "22.00"
-          band: ANTS
-        - time: "22.30"
-          band:
-        - time: "23.00"
-          band: LANDLORD
-        - time: "23.30"
-          band:
-        - time: "00.00"
-          band:
-        - time: "00.30"
-          band: ZEBRA FINK
-        - time: "01.00"
-          band:
-- day: VEN 16
+          band: DABASS CREW
+
+- day: VEN 19
   stages:
-    - name: Portichetto
+    - name: ""
       schedule:
-        - time: "18.00"
-          band: RENZO E I TAFFERUGLI
-        - time: "18.45"
-          band: ALL BUT FACE
-        - time: "19.30"
-          band: DELATES
+        - time: "19.00"
+          band: TEEEPEEE
         - time: "20.00"
-          band:
-        - time: "20.30"
-          band: EVIL EYE LODGE
-        - time: "21.00"
-          band:
-        - time: "21.30"
-          band: MAKHNO
+          band: DR LOOKSHARP
+        - time: "20.40"
+          band: SNEKULA
+        - time: "21.20"
+          band: SCABB
         - time: "22.00"
-          band:
-        - time: "22.30"
-          band: THE RAMBO
-        - time: "23.00"
-          band:
-        - time: "23.30"
-          band: THE KOCKA MOW MOW'S
-        - time: "00.00"
-          band:
-        - time: "01.00"
-          band: UNI NOISE AFTERSHOW DJSET
-    - name: Main Stage
-      schedule:
-        - time: "18.00"
-          band:
-        - time: "18.45"
-          band:
-        - time: "19.30"
-          band:
-        - time: "20.00"
-          band: THE FERRETS
-        - time: "20.30"
-          band:
-        - time: "21.00"
-          band: BLOSSOM SESSION
-        - time: "21.30"
-          band:
-        - time: "22.00"
-          band: WAH '77
-        - time: "22.30"
-          band:
-        - time: "23.00"
-          band: TOUGH
-        - time: "23.30"
-          band:
-        - time: "00.00"
-          band: BABBUTZI ORKESTAR
-        - time: "01.00"
-          band:
-    - name: Boschetto
-      schedule:
-        - time: "18.00"
-          band:
-        - time: "18.45"
-          band: Ale Vaghi
-        - time: "19.30"
-          band:
-        - time: "20.00"
-          band: RICKY JAMES
-        - time: "20.30"
-          band:
-        - time: "21.00"
-          band: KARL SCOTCH
-        - time: "21.30"
-          band:
-        - time: "22.00"
-          band: TEEEEEEPEEEEE
-        - time: "22.30"
-          band:
-        - time: "23.00"
-          band: JUNGLE RADIO
-        - time: "23.30"
-          band:
+          band: LOOP TERAPHY
+        - time: "23.15"
+          band: TEEEPEEE
         - time: "00.00"
           band: PINZA+LELE
         - time: "01.00"
-          band: SONS OF ROBOTS
+          band: TECHFOOD
 
-- day: SAB 17
+- day: SAB 20
   stages:
-    - name: Portichetto
+    - name: ""
       schedule:
-        - time: "18.00"
-          band: ANGOLI ACUSTICI
-        - time: "18.45"
-          band: BLUE FREEDOM
-        - time: "19.30"
-          band: KILLER4
+        - time: "19.00"
+          band: PLASMAN 51
         - time: "20.00"
-          band:
-        - time: "20.30"
-          band: ARBOS
-        - time: "21.00"
-          band:
+          band: PABLITO EL DRITO - ONCE WERE RAVERS
+        - time: "20.45"
+          band: A.F.R.O.R.E.
         - time: "21.30"
+          band: CUBEDIVISION / LTP
+        - time: "22.15"
           band: KRANG
-        - time: "22.00"
-          band:
-        - time: "22.30"
-          band: CELLAMARE
         - time: "23.00"
-          band:
-        - time: "23.30"
-          band: TUBAX
+          band: ELEPHANTIDES
         - time: "00.00"
-          band:
+          band: PABLITO EL DRITO
         - time: "01.00"
-          band: UNI NOISE AFTERSHOW DJSET
-    - name: Main Stage
-      schedule:
-        - time: "18.00"
-          band:
-        - time: "18.45"
-          band:
-        - time: "19.30"
-          band:
-        - time: "20.00"
-          band: PROCLAMA
-        - time: "20.30"
-          band:
-        - time: "21.00"
-          band: DENDROPHILIA
-        - time: "21.30"
-          band:
-        - time: "22.00"
-          band: TELEMACHOS TELEGRAPH
-        - time: "22.30"
-          band:
-        - time: "23.00"
-          band: QUIET SONIC
-        - time: "23.30"
-          band:
-        - time: "00.00"
-          band: LN RIPLEY SOUNDSYSTEM
-        - time: "01.00"
-          band:
-    - name: Boschetto
-      schedule:
-        - time: "18.00"
-          band:
-        - time: "18.45"
-          band: LUCA ISIDORI
-        - time: "19.30"
-          band: PINO L'ABBADESSA & ANGELO CONTINI
-        - time: "20.00"
-          band: MARCIDO MARCIDORJS E FAMOSA MIMOSA
-        - time: "20.30"
-          band:
-        - time: "21.00"
-          band: SECOND IMPACT
-        - time: "21.30"
-          band:
-        - time: "22.00"
-          band: BOP IN TROUBLE
-        - time: "22.30"
-          band:
-        - time: "23.00"
-          band: TECHFOOD ft. MATTIA CIGALINI
-        - time: "23.30"
-          band:
-        - time: "00.00"
-          band:
-        - time: "01.00"
-          band: IL LEPROTTO
-- day: DOM 18
-  stages:
-    - name: Portichetto
-      schedule:
-        - time: "18.00"
-          band: SANTAMADDALENA
-        - time: "18.45"
-          band: UNSYLENCE
-        - time: "19.30"
-          band: MY DEAD IDOLS
-        - time: "20.00"
-          band:
-        - time: "20.30"
-          band: KICKSTARTER RITUAL
-        - time: "21.00"
-          band:
-        - time: "21.30"
-          band: SOLKI
-        - time: "22.00"
-          band:
-        - time: "22.30"
-          band: ERMES
-        - time: "23.00"
-          band:
-        - time: "23.30"
-          band: OTTONE PESANTE
-        - time: "00.00"
-          band: UNI NOISE AFTERSHOW DJSET
-    - name: Main Stage
-      schedule:
-        - time: "18.00"
-          band:
-        - time: "18.45"
-          band:
-        - time: "19.30"
-          band:
-        - time: "20.00"
-          band: TORTURE GARDEN
-        - time: "20.30"
-          band:
-        - time: "21.00"
-          band: SØNDAG
-        - time: "21.30"
-          band:
-        - time: "22.00"
-          band: Selvə
-        - time: "22.30"
-          band:
-        - time: "23.00"
-          band: SDANG!
-        - time: "23.30"
-          band:
-        - time: "00.00"
-          band: MORKOBOT
-    - name: Boschetto
-      schedule:
-        - time: "18.00"
-          band: TINCAN
-        - time: "18.45"
-          band:
-        - time: "19.30"
-          band: SUNWISE SOUND FAMILY
-        - time: "20.00"
-          band:
-        - time: "20.30"
-          band:
-        - time: "21.00"
-          band:
-        - time: "21.30"
-          band:
-        - time: "22.00"
-          band: OTUS BATTLE
-        - time: "22.30"
-          band:
-        - time: "23.00"
-          band:
-        - time: "23.30"
-          band:
-        - time: "00.00"
-          band:
+          band: PLASMAN
