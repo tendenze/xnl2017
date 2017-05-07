@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
 
 .color-red {
   color: #d31313;
@@ -63,7 +63,7 @@ body.fluid {
 #header .title {
   padding: 20px 0;
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 750px;
   line-height: 1;
   font-size: 30px;
   text-align: center;
