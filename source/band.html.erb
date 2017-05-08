@@ -20,7 +20,9 @@
       <div class="info genre"><span>GENERE -</span> <%= data["genre"] %></div>
       <div class="info from"><span>DA -</span> <%= data["from"] %></div>
       <div class="info datetime"><span>DATA/ORA -</span> <%= data["date"] %> <%= !data["special"] ? 'alle ' : '' %><%= data["time"] %></div>
+      <% if data["stage"] %>
       <div class="info stage"><span>PALCO -</span> <%= data["stage"] %></div>
+      <% end %>
       <% if data["link"] %>
       <div class="info link"><%= link_to data["link"], data["link"], :target => "_blank" %></div>
       <% end %>

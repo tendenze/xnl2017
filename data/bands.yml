@@ -1,744 +1,228 @@
 main:
-  - name: "ALE VAGHI"
-    genre: Deep-House/Minimal-Techno
-    from: Piacenza
-    date: Venerdì 16
-    time: "18.45"
-    stage: Boschetto
-    thumbnail: bands/thumbs/alevaghi.jpg
-    color: purple
-    banner: bands/banners/alevaghi.jpg
-    link: "https://www.facebook.com/alessandro.vaghi.10"
-    embed: "https://www.mixcloud.com/alessandrovaghi10/"
+  - name: "A.F.R.O.R.E."
+    genre: LIVESET | NOISE / CONCRETE
+    from: PIACENZA
+    date: Sabato 20
+    time: "20.45"
+    stage:
+    thumbnail: bands/thumbs/afrore.jpg
+    color: blue
+    banner: bands/banners/afrore.jpg
+    link:
+    embed: "https://youtu.be/eeamJNN8Lo4"
 
-  - name: "ALL BUT FACE"
-    genre: Post-Core
-    from: Piacenza
-    date: Venerdì 16
-    time: "18.45"
-    stage: Portichetto
-    thumbnail: bands/thumbs/all.jpg
-    color: green
-    banner: bands/banners/all.jpg
-    link: "https://www.facebook.com/allbutface/"
+  - name: "AIMING FOR ENRIKE"
+    genre: LIVE | POST-ROCK SPERIMENTALE
+    from: OSLO (NORVEGIA)
+    date: Giovedì 18
+    time: "22.00"
+    stage:
+    thumbnail: bands/thumbs/aiming.jpg
+    color: red
+    banner: bands/banners/aiming.jpg
+    link: "http://www.namemusic.no/aimingforenrike/"
+    embed: "https://youtu.be/UMezLbpBTQM?t=57s"
+
+  - name: "BLACKAT CREW"
+    genre: DJSET | ELECTRO-FUNK
+    from: PIACENZA
+    date: Giovedì 18
+    time: "00.00"
+    stage:
+    thumbnail: bands/thumbs/blackcat.jpg
+    color: red
+    banner: bands/banners/blackcat.jpg
+    link:
     embed:
 
-  - name: "ANGOLI ACUSTICI"
-    genre: Unplugged
-    from: Piacenza
-    date: Sabato 17
-    time: "18.00"
-    stage: Portichetto
-    thumbnail: bands/thumbs/angoli.jpg
+  - name: "CUBEDIVISION / LTP"
+    genre: "LIVESET | AMBIENT / TECHNO"
+    from: PIACENZA
+    date: Sabato 20
+    time: "21.30"
+    stage:
+    thumbnail: bands/thumbs/cubedivision.jpg
     color: blue
-    banner: bands/banners/angoli.jpg
-    link: "https://www.facebook.com/angoliacustici"
-    embed: "https://vimeo.com/128736262#t=13m40s"
+    banner: bands/banners/cubedivision.jpg
+    link: "https://cubedivision.bandcamp.com/"
+    embed: "https://youtu.be/tuc8kQ-mEyY"
 
-  - name: "ANTONIO FERRARI"
-    genre: Cantautorato Pop
-    from: Piacenza
-    date: Giovedì 15
-    time: "21.00"
-    stage: Main Stage
-    thumbnail: bands/thumbs/aferrari.jpg
-    color: purple
-    banner: bands/banners/aferrari.jpg
-    link: "https://www.facebook.com/antonio.ferrari.524?fref=ts"
-    embed: "https://www.youtube.com/watch?v=tZyh_90nh5Y"
-
-  - name: "ANTS"
-    genre: "Soul/Punk/Rock'n'roll"
-    from: Rivergaro
-    date: Giovedì 15
-    time: "22.00"
-    stage: Main Stage
-    thumbnail: bands/thumbs/ants.jpg
-    color: green
-    banner: bands/banners/ants.jpg
-    link: "https://www.facebook.com/AntsTheBand/"
-    embed: "https://www.youtube.com/watch?v=FyU6qCVLQ9c"
-
-  - name: "ARBOS"
-    genre: Post Wave/Punk
-    from: Genova
-    date: Sabato 17
-    time: "20.30"
-    stage: Portichetto
-    thumbnail: bands/thumbs/arbos.jpg
-    color: blue
-    banner: bands/banners/arbos.jpg
-    link: "https://www.facebook.com/operaiarbos/"
-    embed: "https://www.youtube.com/watch?v=-fXQJJLs2iQ"
-
-  - name: "BABBUTZI ORKESTAR"
-    genre: BALKAN SEXY MUSIC
-    from: Senza fissa dimora
-    date: Venerdì 16
-    time: "24.00"
-    stage: Main Stage
-    thumbnail: bands/thumbs/babbu.jpg
-    color: purple
-    banner: bands/banners/babbu.jpg
-    link: "https://www.facebook.com/BabbutziOrkestar/"
-    embed: "https://youtu.be/neFH_MBqG-g"
-
-  - name: "BLOSSOM SESSION"
-    genre: Jammed psych-rock
-    from: Piacenza
-    date: Venerdì 16
-    time: "21.00"
-    stage: Main Stage
-    thumbnail: bands/thumbs/blossom.jpg
-    color: green
-    banner: bands/banners/blossom.jpg
-    link: "https://www.facebook.com/blackbloodyblossom/?fref=ts"
-    embed: "https://bandcamp.com/EmbeddedPlayer/album=1653540420/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/|https://blackbloodyblossom.bandcamp.com/album/black-bloody-blossom-ep|Black Bloody Blossom EP by Black Bloody Blossom"
-
-  - name: "BLUE FREEDOM"
-    genre: Blues-Hard-Rock'n'roll
-    from: Piacenza
-    date: Sabato 17
-    time: "18.45"
-    stage: Portichetto
-    thumbnail: bands/thumbs/blue.jpg
-    color: blue
-    banner:  bands/banners/blue.jpg
-    link: "https://www.facebook.com/pages/Blue-Freedom/646222288803316"
-    embed: "http://youtu.be/rDhoCIU4B3M"
-
-  - name: "BOP IN TROUBLE"
-    genre: Indie-Electro
-    from: Piacenza
-    date: Sabato 17
-    time: "22.00"
-    stage: Boschetto
-    thumbnail: bands/thumbs/bop.jpg
-    color: purple
-    banner: bands/banners/bop.jpg
-    link: "https://www.facebook.com/indiepeppo?fref=ts"
+  - name: "DABASS CREW"
+    genre: DJSET | TECHNO
+    from: PIACENZA
+    date: Giovedì 18
+    time: "19.00 / 1.00"
+    stage:
+    thumbnail: bands/thumbs/dabass.jpg
+    color: red
+    banner: bands/banners/dabass.jpg
+    link:
     embed:
 
-  - name: "CELLAMARE"
-    genre: Rock'n'Roll Ska
-    from: Piacenza
-    date: Sabato 17
-    time: "22.30"
-    stage: Portichetto
-    thumbnail: bands/thumbs/cella.jpg
+  - name: "DR LOOKSHARP"
+    genre: LIVESET | NOISE / EXPERIMENTAL / CONCRETE
+    from: PAVIA
+    date: Venerdì 19
+    time: "20.00"
+    stage:
+    thumbnail: bands/thumbs/dr.jpg
     color: green
-    banner: bands/banners/cella.jpg
-    link: "https://www.facebook.com/cellamareband/?fref=ts"
-    embed: "https://play.spotify.com/artist/5WQOSnpSsdk2gvtNWEBMOZ"
+    banner: bands/banners/dr.jpg
+    link: "https://www.facebook.com/Doc-Luden-Looksharp-203332506413156"
+    embed: "https://youtu.be/IN-GfzyjVjA"
 
-  - name: "DELATES"
-    genre: Alternative Rock
-    from: Piacenza
-    date: Venerdì 16
-    time: "19.30"
-    stage: Portichetto
-    thumbnail: bands/thumbs/delates.jpg
-    color: blue
-    banner: bands/banners/delates.jpg
-    link: "https://m.facebook.com/Delates-741849489266371/"
-    embed: "https://youtu.be/hNjdosumqa0"
-
-  - name: "DENDROPHILIA"
-    genre: Disagio Lo-fi
-    from: Pavia
-    date: Sabato 17
-    time: "21.00"
-    stage: Main Stage
-    thumbnail: bands/thumbs/dendro.jpg
-    color: purple
-    banner: bands/banners/dendro.jpg
-    link: "https://www.facebook.com/dendrophilia0/?fref=ts"
-    embed: "https://bandcamp.com/EmbeddedPlayer/album=4076662552/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/|https://dendrophilia0.bandcamp.com/album/dendrophilia|Dendrophilia by Dendrophilia"
-
-  - name: "ENJOY PENINSULA"
-    genre: Spaghetti Metal
-    from: Piacenza
-    date: Giovedì 15
-    time: "19.30"
-    stage: Portichetto
-    thumbnail: bands/thumbs/enjoy.jpg
-    color: green
-    banner: bands/banners/enjoy.jpg
-    link: "https://www.facebook.com/enjoypeninsula/"
-    embed: "https://www.youtube.com/watch?v=eA6hYw1w8Fo"
-
-  - name: "ERMES"
-    genre: Post/Hardcore
-    from: Piacenza
-    date: Domenica 18
-    time: "22.30"
-    stage: Portichetto
-    thumbnail: bands/thumbs/ermes.jpg
-    color: blue
-    banner: bands/banners/ermes.jpg
-    link: "https://www.facebook.com/ermesband/?fref=ts"
-    embed: "https://bandcamp.com/EmbeddedPlayer/album=3313085846/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/|https://ermesband.bandcamp.com/album/ermes|ERMES by ERMES"
-
-  - name: "EVIL EYE LODGE"
-    genre: Blues/Folk'n'roll
-    from: Piacenza
-    date: Venerdì 16
-    time: "20.30"
-    stage: Portichetto
-    thumbnail: bands/thumbs/evil.jpg
-    color: purple
-    banner:  bands/banners/evil.jpg
-    link: "https://www.facebook.com/EvilEyeLodge/"
-    embed: "https://www.youtube.com/watch?v=T937QsVZ7rs"
-
-  - name: "IL LEPROTTO"
-    genre: Electro Toilet
-    from: Milano
-    date: Sabato 17
-    time: "01.00"
-    stage: Boschetto
-    thumbnail: bands/thumbs/lepro.jpg
-    color: green
-    banner: bands/banners/lepro.jpg
-    link: "https://www.facebook.com/IL.LEPROTTO/?fref=ts"
-    embed: "https://soundcloud.com/tracks/211984433"
-
-  - name: "JUNGLE RADIO"
-    genre: Live Electro
-    from: Parma
-    date: Venerdì 16
+  - name: "ELEPHANTIDES"
+    genre: LIVE | FLOATING BPM
+    from: ROMA
+    date: Sabato 20
     time: "23.00"
-    stage: Boschetto
-    thumbnail: bands/thumbs/jungle.jpg
+    stage:
+    thumbnail: bands/thumbs/elephantides.jpg
     color: blue
-    banner: bands/banners/jungle.jpg
-    link: "https://www.facebook.com/JungleradioProject/"
-    embed: "https://soundcloud.com/jungleradioproject"
-
-  - name: "KARL SCOTCH"
-    genre: Club House
-    from: Piacenza
-    date: Venerdì 16
-    time: "21.00"
-    stage: Boschetto
-    thumbnail: bands/thumbs/karl.jpg
-    color: purple
-    banner: bands/banners/karl.jpg
-    link: "https://www.facebook.com/carloalberto.scotti?fref=ts"
-    embed: "https://www.mixcloud.com/carloalbertoscotti/"
-
-  - name: "KILLER4"
-    genre: Grunge-Stoner-Punk
-    from: Piacenza
-    date: Sabato 17
-    time: "19.30"
-    stage: Portichetto
-    thumbnail: bands/thumbs/kill.jpg
-    color: green
-    banner: bands/banners/kill.jpg
-    link: "https://www.facebook.com/killerfour/?fref=ts"
-    embed: "https://soundcloud.com/killer4-819257599/sets/killer4-ep/s-x3Zne"
-
-  - name: "KICKSTARTER RITUAL"
-    genre: Heavy Rock n Roll
-    from: Piacenza
-    date: Domenica 18
-    time: "20.30"
-    stage: Portichetto
-    thumbnail: bands/thumbs/kick.jpg
-    color: blue
-    banner: bands/banners/kick.jpg
-    link: "https://www.facebook.com/KickstarterRitual"
-    embed: "https://youtu.be/drbHVMF2D94"
+    banner: bands/banners/elephantides.jpg
+    link: "https://www.facebook.com/ElephanTides/"
+    embed: "https://youtu.be/Z-ypwFHxokQ"
 
   - name: "KRANG"
-    genre: Live Electro
-    from: Milano
-    date: Sabato 17
-    time: "21.30"
-    stage: Portichetto
+    genre: LIVE | TECHNODROME
+    from: COMO
+    date: Sabato 20
+    time: "22.15"
+    stage:
     thumbnail: bands/thumbs/krang.jpg
-    color: purple
-    banner: bands/banners/krang.jpg
-    link: "https://www.facebook.com/krang111/?fref=ts"
-    embed: "https://www.youtube.com/watch?v=YyrT6BD4CYE"
-
-  - name: "LANDLORD"
-    genre: Electro-pop/Trip-Hop
-    from: Rimini
-    date: Giovedì 15
-    time: "23.00"
-    stage: Main Stage
-    thumbnail: bands/thumbs/landlord.jpg
-    color: green
-    banner: bands/banners/landlord.jpg
-    link: "http://www.landlordband.com/"
-    embed: "https://www.youtube.com/watch?v=0Or24LR0d-8"
-
-  - name: "LN RIPLEY SOUNDSYSTEM"
-    genre: Live dubstep - drum'n'bass
-    from: Torino
-    date: Sabato 17
-    time: "00.00"
-    stage: Main Stage
-    thumbnail: bands/thumbs/ln.jpg
     color: blue
-    banner: bands/banners/ln.jpg
-    link: "https://www.facebook.com/LNRipley/?fref=ts"
-    embed: "https://youtu.be/0CDuAbAn23U"
+    banner:  bands/banners/krang.jpg
+    link: "https://www.facebook.com/krang111/"
+    embed: "https://youtu.be/W8YlecyTTgY"
 
-  - name: "LUCA ISIDORI"
-    genre: Teatro-Canzone
-    from: Piacenza
-    date: Sabato 17
-    time: "18.45"
-    stage: Boschetto
-    thumbnail: bands/thumbs/isidori.jpg
-    color: purple
-    banner: bands/banners/isidori.jpg
-    link: "https://www.facebook.com/Luca.Puck.Folletto.Isidori?fref=ts"
-    embed:
-
-  - name: "MAKHNO"
-    genre: One man band - Psych Punk
-    from: Piacenza
-    date: Venerdì 16
-    time: "21.30"
-    stage: Portichetto
-    thumbnail: bands/thumbs/mak.jpg
-    color: green
-    banner: bands/banners/mak.jpg
-    link: "https://www.facebook.com/viva.canzi?fref=ts"
-    embed: "https://youtu.be/J6ACfbX3P5E"
-
-  - name: "MARCIDO MARCIDORJS E FAMOSA MIMOSA"
-    genre: Teatro Musica Sperimentale
-    from: Torino
-    date: Sabato 17
-    time: "20.00"
-    stage: Boschetto
-    thumbnail: bands/thumbs/marcido.jpg
-    color: blue
-    banner: bands/banners/marcido.jpg
-    link: "http://www.marcido.it/"
-    embed: "https://youtu.be/UH1qYP7ejhs"
-
-  - name: "MIKELESS & CLO PASSARO"
-    genre: Funky-blues e danza contemporanea
-    from: Piacenza
-    date: Giovedì 15
-    time: "21.30"
-    stage: Portichetto
-    thumbnail: bands/thumbs/mike.jpg
-    color: purple
-    banner: bands/banners/mike.jpg
-    link: "https://www.facebook.com/MikelessOfficial"
-    embed: "https://youtu.be/AxfDkRDYh60"
-
-  - name: "MORKOBOT"
-    genre: Post / psych metal /noise
-    from: Milano
-    date: Domenica 18
-    time: "24.00"
-    stage: Main Stage
-    thumbnail: bands/thumbs/morko.jpg
-    color: green
-    banner: bands/banners/morko.jpg
-    link: "https://www.facebook.com/MoRkObOt"
-    embed: "https://www.youtube.com/watch?v=kk7IiTZgWO4"
-
-  - name: "MY DEAD IDOLS"
-    genre: Alternative/Metal-core
-    from: Parma
-    date: Domenica 18
-    time: "19.30"
-    stage: Portichetto
-    thumbnail: bands/thumbs/idols.jpg
-    color: blue
-    banner: bands/banners/idols.jpg
-    link: "https://www.facebook.com/NoizePollution12/?fref=ts"
-    embed: "https://www.youtube.com/watch?v=896WFZCGeSw"
-
-  - name: "NOBODY CRIED FOR DINOSAURS"
-    genre: Alternative/Indie/Pop-rock
-    from: Milano
-    date: Giovedì 15
-    time: "24.00"
-    stage: Portichetto
-    thumbnail: bands/thumbs/dinosaurs.jpg
-    color: purple
-    banner:  bands/banners/dinosaurs.jpg
-    link: "https://www.facebook.com/nobodycriedfordinosaurs/"
-    embed: "https://www.youtube.com/watch?v=AttmltnezzM"
-
-  - name: "NO TNX"
-    genre: Rock
-    from: Piacenza
-    date: Giovedì 15
-    time: "20.00"
-    stage: Portichetto
-    thumbnail: bands/thumbs/notnx.jpg
-    color: green
-    banner: bands/banners/notnx.jpg
-    link: "https://www.facebook.com/the.notnx/"
-    embed: "https://www.youtube.com/watch?v=F-BkgFObV9o"
-
-  - name: "OTTONE PESANTE"
-    genre: Heavy Brass Metal
-    from: Ravenna
-    date: Domenica 18
-    time: "23.30"
-    stage: Portichetto
-    thumbnail: bands/thumbs/otto.jpg
-    color: blue
-    banner: bands/banners/otto.jpg
-    link: "https://www.facebook.com/ottonepesante"
-    embed: "https://www.youtube.com/watch?v=cO6QIeKYILY"
-
-  - name: "OTUS BATTLE"
-    genre: Dub
-    from: Piacenza
-    date: Domenica 18
+  - name: "LOOP TERAPHY"
+    genre: LIVE | FUNK / HIP-HOP / JAZZ
+    from: MILANO
+    date: Venerdì 19
     time: "22.00"
-    stage: Boschetto
-    thumbnail: bands/thumbs/otus.jpg
-    color: purple
-    banner: bands/banners/otus.jpg
-    link: "https://www.facebook.com/otusbattle.dub?fref=ts"
-    embed:
-
-  - name: "PINO L'ABBADESSA & ANGELO CONTINI"
-    genre: Teatro-musica sperimentale
-    from: Piacenza
-    date: Sabato 17
-    time: "19.30"
-    stage: Boschetto
-    thumbnail: bands/thumbs/pino.jpg
+    stage:
+    thumbnail: bands/thumbs/loop.jpg
     color: green
-    banner: bands/banners/pino.jpg
-    link:
-    embed:
+    banner: bands/banners/loop.jpg
+    link: "https://www.facebook.com/LoopTherapy"
+    embed: "https://youtu.be/3q3W3oxcAq8?t=9s"
+
+  - name: "PABLITO EL DRITO - ONCE WERE RAVERS"
+    genre: SCRITTORE
+    from: MILANO
+    date: Sabato 20
+    time: "20.00"
+    stage:
+    thumbnail: bands/thumbs/bablito.jpg
+    color: blue
+    banner: bands/banners/bablito.jpg
+    link: "http://www.agenziax.it/pablito-el-drito/"
+    embed: "https://youtu.be/FhCdhv13TDQ"
+
+  - name: "PABLITO EL DRITO"
+    genre: LIVESET | TECHNO 8BIT
+    from: MILANO
+    date: Sabato 20
+    time: "00.00"
+    stage:
+    thumbnail: bands/thumbs/pablito.jpg
+    color: blue
+    banner: bands/banners/pablito.jpg
+    link: "https://www.facebook.com/pablitoeldritodj/"
+    embed: "https://youtu.be/7Fl-KTi6hPc"
+
+  - name: "PLASMAN 51"
+    genre: DJSET | TECHNO
+    from: MILANO
+    date: Sabato 20
+    time: "19.00"
+    stage:
+    thumbnail: bands/thumbs/plasman.jpg
+    color: blue
+    banner: bands/banners/plasman.jpg
+    link: "https://www.rockit.it/plasman51"
+    embed: "https://youtu.be/HmNcmLZndBU?t=10m20s"
 
   - name: "PINZA+LELE"
-    genre: Techno
-    from: Piacenza
-    date: Venerdì 16
-    time: "24.00"
-    stage: Boschetto
+    genre: DJSET | TECHNO
+    from: FIORENZUOLA (PC)
+    date: Venerdì 19
+    time: "00.00"
+    stage:
     thumbnail: bands/thumbs/pinza.jpg
-    color: blue
+    color: green
     banner: bands/banners/pinza.jpg
-    link: "https://www.facebook.com/pinzapluslele/?fref=ts"
-    embed: "https://soundcloud.com/pinzapluslele"
+    link: "https://www.pinzapluslele.com/"
+    embed: "https://youtu.be/8JcWOirVm44"
 
-  - name: "PROCLAMA"
-    genre: Punk-Rock
-    from: Torino
-    date: Sabato 17
-    time: "20.00"
-    stage: Main Stage
-    thumbnail: bands/thumbs/proclama.jpg
-    color: purple
-    banner: bands/banners/proclama.jpg
-    link: "https://www.facebook.com/Proclama.Band"
-    embed: "https://youtu.be/6HKkdongYPk"
-
-  - name: "QUIET SONIC"
-    genre: Rock/stoner/punk
-    from: Piacenza
-    date: Sabato 17
-    time: "23.00"
-    stage: Main Stage
-    thumbnail: bands/thumbs/quiet.jpg
+  - name: "SCABB"
+    genre: LIVE | ELECTRO / VISUAL DUO
+    from: BRESCIA
+    date: Venerdì 19
+    time: "21.20"
+    stage:
+    thumbnail: bands/thumbs/scabb.jpg
     color: green
-    banner: bands/banners/quiet.jpg
-    link: "https://www.facebook.com/QuietSonic/?fref=ts"
-    embed: "https://www.youtube.com/watch?v=oKPWzXFQk0U"
+    banner: bands/banners/scabb.jpg
+    link: "https://www.facebook.com/scabbmusic/"
+    embed: "https://www.facebook.com/scabbmusic/videos/687444291440109/"
 
-  - name: "THE RAMBO"
-    genre: Mutant noise/blues/punk
-    from: Lodi
-    date: Venerdì 16
-    time: "22.30"
-    stage: Portichetto
-    thumbnail: bands/thumbs/rambo.jpg
-    color: blue
-    banner: bands/banners/rambo.jpg
-    link: "https://www.facebook.com/theRamboBand/"
-    embed: "https://www.youtube.com/watch?v=rMajbKs21S0"
-
-  - name: "RENZO E I TAFFERUGLI"
-    genre: Rock Analfabetico
-    from: Piacenza
-    date: Venerdì 16
-    time: "18.00"
-    stage: Portichetto
-    thumbnail: bands/thumbs/renzo.jpg
-    color: purple
-    banner: bands/banners/renzo.jpg
-    link: "https://www.facebook.com/Renzo-e-i-Tafferugli-1024707997567960/?fref=ts"
-    embed: "https://soundcloud.com/renzoeitafferugli"
-
-  - name: "RICKY JAMES"
-    genre: "Electro-house-techno"
-    from: Piacenza
-    date: Venerdì 16
-    time: "20.00"
-    stage: Boschetto
-    thumbnail: bands/thumbs/rik.jpg
+  - name: "SNEKULA"
+    genre: LIVESET | AMBIENT / NOISE / CONCRETE
+    from: PIACENZA
+    date: Venerdì 19
+    time: "20.40"
+    stage:
+    thumbnail: bands/thumbs/snekula.jpg
     color: green
-    banner: bands/banners/rik.jpg
-    link:
-    embed:
+    banner: bands/banners/snekula.jpg
+    link: "http://www.snekula.com/"
+    embed: "https://youtu.be/gLr3UkOBTS4"
 
-  - name: "SANTAMADDALENA"
-    genre: Grunge Rexistance
-    from: Piacenza
-    date: Domenica 18
-    time: "18.00"
-    stage: Portichetto
-    thumbnail: bands/thumbs/santa.jpg
-    color: blue
-    banner: bands/banners/santa.jpg
-    link: "https://www.facebook.com/santamaddalenarockband"
-    embed: "https://youtu.be/nMdOM7JdhCM?t=6m33s"
-
-  - name: "SECOND IMPACT"
-    genre: Techno
-    from: Piacenza
-    date: Sabato 17
-    time: "21.00"
-    stage: Boschetto
-    thumbnail: bands/thumbs/second.jpg
-    color: purple
-    banner: bands/banners/second.jpg
-    link:
-    embed: "https://soundcloud.com/2ndimpct/2-polymix?in=2ndimpct/sets/polymixes"
-
-  - name: "Selvə"
-    genre: Post/Black Screamo
-    from: Lodi
-    date: Domenica 18
-    time: "22.00"
-    stage: Main Stage
-    thumbnail: bands/thumbs/selva.jpg
-    color: green
-    banner: bands/banners/selva.jpg
-    link: "https://www.facebook.com/selvapbs/?fref=ts"
-    embed: "https://bandcamp.com/EmbeddedPlayer/album=871401035/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/|https://selvapbs.bandcamp.com/album/el-o|eléo by ['selvə]"
-
-  - name: "SDANG!"
-    genre: Post prog / math rock
-    from: Brescia
-    date: Domenica 18
-    time: "23.00"
-    stage: Main Stage
-    thumbnail: bands/thumbs/sdang.jpg
-    color: blue
-    banner: bands/banners/sdang.jpg
-    link: "https://www.facebook.com/sdangband/?fref=ts"
-    embed: "www.youtube.com/watch?v=79-2hky8bj4"
-
-  - name: "SOLKI"
-    genre: Psych-Pop-Punk
-    from: Firenze
-    date: Domenica 18
-    time: "21.30"
-    stage: Portichetto
-    thumbnail: bands/thumbs/solki.jpg
-    color: purple
-    banner: bands/banners/solki.jpg
-    link: "https://www.facebook.com/solkisolkisolki/?fref=ts"
-    embed: "https://bandcamp.com/EmbeddedPlayer/album=1937903482/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/|https://solki.bandcamp.com/releases|Sleeper Grele by Solki"
-
-  - name: "SØNDAG"
-    genre: Low/Tuned Rock
-    from: Piacenza
-    date: Domenica 18
-    time: "21.00"
-    stage: Main Stage
-    thumbnail: bands/thumbs/sond.jpg
-    color: green
-    banner: bands/banners/sond.jpg
-    link: "https://www.facebook.com/sondag.music/"
-    embed: "https://www.youtube.com/watch?v=WbDWGceuVJo"
-
-  - name: "SONICATOMIC"
-    genre: psych-rock / noise
-    from: Alessandria
-    date: Giovedì 15
-    time: "22.30"
-    stage: Portichetto
-    thumbnail: bands/thumbs/sonicatomic.jpg
-    color: blue
-    banner: bands/banners/sonicatomic.jpg
-    link: "https://www.facebook.com/sonicatomic.band/"
-    embed: "https://youtu.be/sKEBYwo1oUY"
-
-  - name: "SONS OF ROBOTS"
-    genre: Techno
-    from: Parma
-    date: Venerdì 16
+  - name: "TECHFOOD"
+    genre: DJSET | ELECTRO / TECHNO
+    from: PIACENZA
+    date: Venerdì 19
     time: "01.00"
-    stage: Boschetto
-    thumbnail: bands/thumbs/sons.jpg
-    color: purple
-    banner: bands/banners/sons.jpg
-    link: "https://www.facebook.com/SonsOfRobotsOfficial/"
-    embed: "https://youtu.be/68cXSYkswH0"
-
-  - name: "SUNWISE SOUND FAMILY"
-    genre: Reggae/Dancehall
-    from: Piacenza
-    date: Domenica 18
-    time: "dalle 19.30 alle 22.00"
-    stage: Boschetto
-    thumbnail: bands/thumbs/sun.jpg
-    color: green
-    banner: bands/banners/sun.jpg
-    link: "https://www.facebook.com/SunwiseSoundFamily/?fref=ts"
-    embed:
-
-  - name: "TECHFOOD ft. MATTIA CIGALINI"
-    genre: Electro Live Jazz
-    from: Piacenza
-    date: Sabato 17
-    time: "23.00"
-    stage: Boschetto
+    stage:
     thumbnail: bands/thumbs/tech.jpg
-    color: blue
+    color: green
     banner: bands/banners/tech.jpg
-    link: "https://www.facebook.com/TECHFOODCREW/?pnref=lhc"
-    embed: "https://youtu.be/tzIJPuviDQc?t=3m5s"
+    link: "https://www.facebook.com/TECHFOODCREW"
+    embed: "https://youtu.be/i3f5-HGlXJc"
 
-  - name: "TEEEEEEPEEEEE"
-    genre: Lo-fi Beats
-    from: Piacenza
-    date: Venerdì 16
-    time: "22.00"
-    stage: Boschetto
+  - name: "TEEEPEEE"
+    genre: LIVESET | HIP-HOP STRUMENTALE / JUNGLE
+    from: PIACENZA
+    date: Venerdì 19
+    time: "19.00/23.15"
+    stage:
     thumbnail: bands/thumbs/tepe.jpg
-    color: purple
+    color: green
     banner: bands/banners/tepe.jpg
-    link: "https://www.facebook.com/teeeeepeeeee/?fref=ts"
-    embed: "https://soundcloud.com/teeeeepeeeee"
-
-  - name: "TELEMACHOS TELEGRAPH"
-    genre: Hip-Hop Funk
-    from: Milano
-    date: Sabato 17
-    time: "22.00"
-    stage: Main Stage
-    thumbnail: bands/thumbs/tele.jpg
-    color: green
-    banner: bands/banners/tele.jpg
-    link: "https://www.facebook.com/telemachostelegraph/"
-    embed: "https://www.facebook.com/telemachostelegraph/videos/158364274572652/"
-
-  - name: "THE FERRETS"
-    genre: Punk-Rock
-    from: Piacenza
-    date: Venerdì 16
-    time: "20.00"
-    stage: Main Stage
-    thumbnail: bands/thumbs/ferr.jpg
-    color: blue
-    banner: bands/banners/ferr.jpg
-    link: "https://www.facebook.com/T.Ferrets/?fref=ts"
-    embed: "https://www.youtube.com/watch?v=U1d6KF-NDJs"
-
-  - name: "THE KOCKA MOW MOW'S"
-    genre: Party Rock'n'Roll
-    from: Piacenza
-    date: Venerdì 16
-    time: "23.30"
-    stage: Portichetto
-    thumbnail: bands/thumbs/kocka.jpg
-    color: purple
-    banner: bands/banners/kocka.jpg
-    link: "https://www.facebook.com/kockamowmow/"
-    embed: "https://www.youtube.com/watch?v=4HMWH_q1QAk"
-
-  - name: "TINCAN"
-    genre: Footwork/juke
-    from: Piacenza
-    date: Domenica 18
-    time: "18.00"
-    stage: Boschetto
-    thumbnail: bands/thumbs/tincan.jpg
-    color: green
-    banner: bands/banners/tincan.jpg
-    link: "https://www.facebook.com/giovanni.lombardi4?fref=ts"
-    embed: "https://soundcloud.com/ttttincan"
-
-  - name: "TORTURE GARDEN"
-    genre: Metal
-    from: Lodi
-    date: Domenica 18
-    time: "20.00"
-    stage: Main Stage
-    thumbnail: bands/thumbs/torture.jpg
-    color: blue
-    banner: bands/banners/torture.jpg
     link:
     embed:
 
-  - name: "TOUGH"
-    genre: Punk-Rock
-    from: Piacenza
-    date: Venerdì 16
-    time: "23.00"
-    stage: Main Stage
-    thumbnail: bands/thumbs/tough.jpg
-    color: purple
-    banner: bands/banners/tough.jpg
-    link: "https://www.facebook.com/ToughPunkRock/?fref=ts"
-    embed: "https://bandcamp.com/EmbeddedPlayer/album=3952875054/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/|https://tough.bandcamp.com/album/mess|Mess by TOUGH"
+  - name: "TEMPUS FUGIT"
+    genre: LIVE | CONTEMPORANEA / PERCUSSIONI
+    from: PIACENZA
+    date: Giovedì 18
+    time: "21.30"
+    stage:
+    thumbnail: bands/thumbs/tempus.jpg
+    color: red
+    banner: bands/banners/tempus.jpg
+    link: "https://tempusfugitpercussionensemble.wordpress.com/"
+    embed: "https://youtu.be/LG8QW-xqY7M"
 
-  - name: "TUBAX"
-    genre: Laser Funk
-    from: Bologna
-    date: Sabato 17
-    time: "23.30"
-    stage: Portichetto
-    thumbnail: bands/thumbs/tubax.jpg
-    color: green
-    banner: bands/banners/tubax.jpg
-    link: "https://www.facebook.com/TubaxSound/?ref=br_rs"
-    embed: "https://youtu.be/p2eKSPC4ChU"
-
-  - name: "UNSYLENCE"
-    genre: Alternative/Metal-core
-    from: Piacenza/Milano
-    date: Domenica 18
-    time: "18.45"
-    stage: Portichetto
-    thumbnail: bands/thumbs/unsy.jpg
-    color: blue
-    banner: bands/banners/unsy.jpg
-    link: "https://www.facebook.com/UnsylenceOfficial/?fref=ts"
-    embed: "https://www.youtube.com/watch?v=ERpHfXPREOM"
-
-  - name: "WAH '77"
-    genre: Speed Punk'n'Roll
-    from: Parma
-    date: Venerdì 16
-    time: "22.00"
-    stage: Main Stage
-    thumbnail: bands/thumbs/wah.jpg
-    color: purple
-    banner: bands/banners/wah.jpg
-    link: "https://www.facebook.com/wah77punk/?fref=ts"
-    embed: "https://bandcamp.com/EmbeddedPlayer/album=1080164386/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/|https://retrovoxrecords.bandcamp.com/album/wah-77-bet-on-it|BET ON IT by WAH' 77"
-
-  - name: "ZEBRA FINK"
-    genre: Rock
-    from: Piacenza
-    date: Giovedì 15
-    time: "24.30"
-    stage: Main Stage
-    thumbnail: bands/thumbs/zebra.jpg
-    color: green
-    banner: bands/banners/zebra.jpg
-    link: "https://www.facebook.com/ZebraFinkBand/?fref=ts"
-    embed: "https://www.youtube.com/watch?v=Y9did82pelI"
+  - name: "VANNI SANTONI - MURO DI CASSE"
+    genre: SCRITTORE
+    from: AREZZO
+    date: Giovedì 18
+    time: "20.00"
+    stage:
+    thumbnail: bands/thumbs/vanni.jpg
+    color: red
+    banner: bands/banners/vanni.jpg
+    link: "https://it.wikipedia.org/wiki/Vanni_Santoni"
+    embed: "https://tempusfugitpercussionhttps://youtu.be/bPG7Ty2BOk4https://youtu.be/LG8QW-xqY7M"
