@@ -534,6 +534,7 @@ body.fluid {
 .modal-container .return a {
   padding: 2px 4px;
   border-radius: 2px;
+  font-weight: bold;
 }
 .modal-container .color-0 .return a {
   border: 1px solid #d31313;
