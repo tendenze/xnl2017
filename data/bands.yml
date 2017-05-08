@@ -6,7 +6,7 @@ main:
     time: "20.45"
     stage:
     thumbnail: bands/thumbs/afrore.jpg
-    color: blue
+    color: 2
     banner: bands/banners/afrore.jpg
     link:
     embed: "https://youtu.be/eeamJNN8Lo4"
@@ -18,7 +18,7 @@ main:
     time: "22.00"
     stage:
     thumbnail: bands/thumbs/aiming.jpg
-    color: red
+    color: 0
     banner: bands/banners/aiming.jpg
     link: "http://www.namemusic.no/aimingforenrike/"
     embed: "https://youtu.be/UMezLbpBTQM?t=57s"
@@ -30,7 +30,7 @@ main:
     time: "00.00"
     stage:
     thumbnail: bands/thumbs/blackcat.jpg
-    color: red
+    color: 0
     banner: bands/banners/blackcat.jpg
     link:
     embed:
@@ -42,7 +42,7 @@ main:
     time: "21.30"
     stage:
     thumbnail: bands/thumbs/cubedivision.jpg
-    color: blue
+    color: 2
     banner: bands/banners/cubedivision.jpg
     link: "https://cubedivision.bandcamp.com/"
     embed: "https://youtu.be/tuc8kQ-mEyY"
@@ -54,7 +54,7 @@ main:
     time: "19.00 / 1.00"
     stage:
     thumbnail: bands/thumbs/dabass.jpg
-    color: red
+    color: 0
     banner: bands/banners/dabass.jpg
     link:
     embed:
@@ -66,7 +66,7 @@ main:
     time: "20.00"
     stage:
     thumbnail: bands/thumbs/dr.jpg
-    color: green
+    color: 1
     banner: bands/banners/dr.jpg
     link: "https://www.facebook.com/Doc-Luden-Looksharp-203332506413156"
     embed: "https://youtu.be/IN-GfzyjVjA"
@@ -78,7 +78,7 @@ main:
     time: "23.00"
     stage:
     thumbnail: bands/thumbs/elephantides.jpg
-    color: blue
+    color: 2
     banner: bands/banners/elephantides.jpg
     link: "https://www.facebook.com/ElephanTides/"
     embed: "https://youtu.be/Z-ypwFHxokQ"
@@ -90,7 +90,7 @@ main:
     time: "22.15"
     stage:
     thumbnail: bands/thumbs/krang.jpg
-    color: blue
+    color: 2
     banner:  bands/banners/krang.jpg
     link: "https://www.facebook.com/krang111/"
     embed: "https://youtu.be/W8YlecyTTgY"
@@ -102,7 +102,7 @@ main:
     time: "22.00"
     stage:
     thumbnail: bands/thumbs/loop.jpg
-    color: green
+    color: 1
     banner: bands/banners/loop.jpg
     link: "https://www.facebook.com/LoopTherapy"
     embed: "https://youtu.be/3q3W3oxcAq8?t=9s"
@@ -114,7 +114,7 @@ main:
     time: "20.00"
     stage:
     thumbnail: bands/thumbs/bablito.jpg
-    color: blue
+    color: 2
     banner: bands/banners/bablito.jpg
     link: "http://www.agenziax.it/pablito-el-drito/"
     embed: "https://youtu.be/FhCdhv13TDQ"
@@ -126,7 +126,7 @@ main:
     time: "00.00"
     stage:
     thumbnail: bands/thumbs/pablito.jpg
-    color: blue
+    color: 2
     banner: bands/banners/pablito.jpg
     link: "https://www.facebook.com/pablitoeldritodj/"
     embed: "https://youtu.be/7Fl-KTi6hPc"
@@ -138,7 +138,7 @@ main:
     time: "19.00"
     stage:
     thumbnail: bands/thumbs/plasman.jpg
-    color: blue
+    color: 2
     banner: bands/banners/plasman.jpg
     link: "https://www.rockit.it/plasman51"
     embed: "https://youtu.be/HmNcmLZndBU?t=10m20s"
@@ -150,7 +150,7 @@ main:
     time: "00.00"
     stage:
     thumbnail: bands/thumbs/pinza.jpg
-    color: green
+    color: 1
     banner: bands/banners/pinza.jpg
     link: "https://www.pinzapluslele.com/"
     embed: "https://youtu.be/8JcWOirVm44"
@@ -162,7 +162,7 @@ main:
     time: "21.20"
     stage:
     thumbnail: bands/thumbs/scabb.jpg
-    color: green
+    color: 1
     banner: bands/banners/scabb.jpg
     link: "https://www.facebook.com/scabbmusic/"
     embed: "https://www.facebook.com/scabbmusic/videos/687444291440109/"
@@ -174,7 +174,7 @@ main:
     time: "20.40"
     stage:
     thumbnail: bands/thumbs/snekula.jpg
-    color: green
+    color: 1
     banner: bands/banners/snekula.jpg
     link: "http://www.snekula.com/"
     embed: "https://youtu.be/gLr3UkOBTS4"
@@ -186,7 +186,7 @@ main:
     time: "01.00"
     stage:
     thumbnail: bands/thumbs/tech.jpg
-    color: green
+    color: 1
     banner: bands/banners/tech.jpg
     link: "https://www.facebook.com/TECHFOODCREW"
     embed: "https://youtu.be/i3f5-HGlXJc"
@@ -198,7 +198,7 @@ main:
     time: "19.00/23.15"
     stage:
     thumbnail: bands/thumbs/tepe.jpg
-    color: green
+    color: 1
     banner: bands/banners/tepe.jpg
     link:
     embed:
@@ -210,7 +210,7 @@ main:
     time: "21.30"
     stage:
     thumbnail: bands/thumbs/tempus.jpg
-    color: red
+    color: 0
     banner: bands/banners/tempus.jpg
     link: "https://tempusfugitpercussionensemble.wordpress.com/"
     embed: "https://youtu.be/LG8QW-xqY7M"
@@ -222,7 +222,7 @@ main:
     time: "20.00"
     stage:
     thumbnail: bands/thumbs/vanni.jpg
-    color: red
+    color: 0
     banner: bands/banners/vanni.jpg
     link: "https://it.wikipedia.org/wiki/Vanni_Santoni"
     embed: "https://tempusfugitpercussionhttps://youtu.be/bPG7Ty2BOk4https://youtu.be/LG8QW-xqY7M"

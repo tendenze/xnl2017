@@ -2,7 +2,7 @@
 <% index += base_index
    img_group_count = 20# download images in clusters of <img_group_count>
    name = data["name"].gsub(/[^a-zA-Z1-9]/,"").downcase
-   color = "color-" + (index % 3).to_s
+   color = "color-" + (data["color"] ? data["color"].to_s : (index % 3).to_s)
    band_image_tag = image_tag(
     "bands/thumbs/empty.jpg",
     :class => "img-responsive",

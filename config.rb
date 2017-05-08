@@ -87,7 +87,7 @@ ready do
     bands.sort_by{ |d| d["name"].downcase }.each_with_index do |data, index|
       index += base_index
       name_id = data["name"].gsub(/[^a-zA-Z1-9]/,"").downcase
-      color_index = index % 3
+      color_index = data["color"] ? data["color"] : index % 3
       proxy "bands/#{name_id}.html", "band.html",
         :locals => { :is_modal => false, :name_id => name_id, :data => data, :color_index => color_index },
         :ignore => true
