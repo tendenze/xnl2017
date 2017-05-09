@@ -113,9 +113,9 @@ main:
     date: Sabato 20
     time: "20.00"
     stage:
-    thumbnail: bands/thumbs/bablito.jpg
+    thumbnail: bands/thumbs/pablito.jpg
     color: 2
-    banner: bands/banners/bablito.jpg
+    banner: bands/banners/pablito.jpg
     link: "http://www.agenziax.it/pablito-el-drito/"
     embed: "https://youtu.be/FhCdhv13TDQ"
 
